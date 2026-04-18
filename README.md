@@ -91,9 +91,30 @@ MIT — ver [`LICENSE`](LICENSE).
 
 ---
 
-## Cita
+## Cómo citar este proyecto
 
-Si utiliza este dataset o los scripts en trabajo derivado, se agradece citar:
+Si utiliza este dataset, los scripts o el reporte en trabajo derivado
+(académico, regulatorio, periodístico u otro), se agradece la siguiente
+cita:
 
-> *Estado del Consentimiento Web en Chile 2026.* Privai SpA.
+**Formato simple (texto):**
+
+> Varas, N., Escobar, E., y Wagemann, K. (2026). *Estado del Consentimiento
+> Web en Chile 2026.* Privai SpA.
 > https://github.com/Privaicl/chile-state-of-web-consent
+
+**BibTeX:**
+
+```bibtex
+@misc{varas2026chile_consent,
+  author       = {Varas, Nicolás and Escobar, Edison and Wagemann, Kelly},
+  title        = {Estado del Consentimiento Web en Chile 2026},
+  year         = {2026},
+  publisher    = {Privai SpA},
+  howpublished = {\url{https://github.com/Privaicl/chile-state-of-web-consent}},
+}
+```
+
+Una versión maquinable de los metadatos de cita está disponible en
+[`CITATION.cff`](CITATION.cff), lo que activa el botón *"Cite this
+repository"* en la interfaz de GitHub.

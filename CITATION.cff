@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Estado del Consentimiento Web en Chile 2026"
+message: "Si utiliza este dataset, los scripts o el reporte en trabajo derivado, se agradece la siguiente cita."
+type: dataset
+authors:
+  - family-names: "Varas"
+    given-names: "Nicolás"
+    affiliation: "Privai SpA"
+  - family-names: "Escobar"
+    given-names: "Edison"
+    affiliation: "Privai SpA"
+  - family-names: "Wagemann"
+    given-names: "Kelly"
+    affiliation: "Privai SpA"
+year: 2026
+url: "https://github.com/Privaicl/chile-state-of-web-consent"
+repository-code: "https://github.com/Privaicl/chile-state-of-web-consent"
+license: MIT
+keywords:
+  - cookie consent
+  - privacy
+  - web measurement
+  - Chile
+  - Ley 21.719
+  - GDPR
+  - dark patterns
+  - empirical study
