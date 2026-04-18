@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+dist/
+build/
+*.egg-info/
+
+# Local node deps
+node_modules/
+
+# Sqlite WAL/SHM transient files
+*.db-shm
+*.db-wal
+
+# OS
+.DS_Store
