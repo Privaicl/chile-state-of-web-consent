@@ -100,7 +100,7 @@ cita:
 **Formato simple (texto):**
 
 > Varas, N., Escobar, E., y Wagemann, K. (2026). *Estado del Consentimiento
-> Web en Chile 2026.* Privai SpA.
+> Web en Chile 2026.* Nickel Technologies SpA.
 > https://github.com/Privaicl/chile-state-of-web-consent
 
 **BibTeX:**
@@ -110,7 +110,7 @@ cita:
   author       = {Varas, Nicolás and Escobar, Edison and Wagemann, Kelly},
   title        = {Estado del Consentimiento Web en Chile 2026},
   year         = {2026},
-  publisher    = {Privai SpA},
+  publisher    = {Nickel Technologies SpA},
   howpublished = {\url{https://github.com/Privaicl/chile-state-of-web-consent}},
 }
 ```

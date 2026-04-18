@@ -5,13 +5,13 @@ type: dataset
 authors:
   - family-names: "Varas"
     given-names: "Nicolás"
-    affiliation: "Privai SpA"
+    affiliation: "Nickel Technologies SpA"
   - family-names: "Escobar"
     given-names: "Edison"
-    affiliation: "Privai SpA"
+    affiliation: "Nickel Technologies SpA"
   - family-names: "Wagemann"
     given-names: "Kelly"
-    affiliation: "Privai SpA"
+    affiliation: "Nickel Technologies SpA"
 year: 2026
 url: "https://github.com/Privaicl/chile-state-of-web-consent"
 repository-code: "https://github.com/Privaicl/chile-state-of-web-consent"
