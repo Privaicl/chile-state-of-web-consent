@@ -1,0 +1,2265 @@
+name,domain,category,platform,wildcard
+cookiePreferences,,Functional,Google Tag Manager,0
+td,www.googletagmanager.com,Analytics,Google Tag Manager,0
+CookieConsent,,Functional,Cookiebot,0
+CookieConsentBulkTicket,cookiebot.com (3rd party),Functional,Cookiebot,0
+userlang,cookiebot.com (3rd party),Functional,Cookiebot,1
+consentUUID,,Functional,Cookiebot,0
+CrossConsent,,Functional,Cookiebot,0
+1.gif,,Functional,Cookiebot,0
+cb-currency,,Functional,Cookiebot,0
+CookieConsentBulkSetting-,,Functional,Cookiebot,1
+cookieconsent_variant,,Functional,Maxlead,0
+cookieconsent_system,,Functional,Maxlead,0
+cookieconsent_level,,Functional,Maxlead,0
+cookieconsent_seen,,Functional,Maxlead,0
+FPGSID,,Functional,Google,0
+_ga,,Analytics,Google Analytics,0
+_gali,,Analytics,Google Analytics,0
+_ga_,,Analytics,Google Analytics,1
+_gid,,Analytics,Google Analytics,0
+_gat,,Analytics,Google Analytics,1
+_dc_gtm_,,Analytics,Google Analytics,1
+AMP_TOKEN,,Analytics,Google Analytics,0
+_gat_gtag_,,Analytics,Google Analytics,1
+_gac_,,Marketing,Google Analytics,1
+__utma,,Analytics,Google Analytics,0
+__utmt,,Analytics,Google Analytics,0
+__utmb,,Analytics,Google Analytics,0
+__utmc,,Analytics,Google Analytics,0
+__utmz,,Analytics,Google Analytics,0
+__utmv,google-analytics.com (3rd party) or,Analytics,Google Analytics,0
+__utmx,,Analytics,Google Analytics,0
+__utmxx,,Analytics,Google Analytics,0
+FPAU,,Marketing,Google Analytics,0
+FPID,,Analytics,Google Analytics,0
+FPLC,,Analytics,Google Analytics,0
+_GRECAPTCHA,google.com,Functional,Google reCAPTCHA,0
+__eoi,,Security,Google AdSense,0
+pm_sess,,Functional,Google AdSense,0
+pm_sess_NNN,,Functional,Google AdSense,0
+aboutads_sessNNN,,Security,Google AdSense,0
+ANID,,Functional,Google AdSense,0
+GA_OPT_OUT,google-analytics.com,Functional,Google Analytics,0
+Conversion,www.googleadservices.com,Marketing,Google Ads,0
+_opt_awkid,,Analytics,Google Optimize,0
+_opt_awgid,,Analytics,Google Optimize,0
+_opt_awmid,,Analytics,Google Optimize,0
+_gaexp_rc,,Analytics,Google Optimize,0
+_opt_awcid,,Analytics,Google Optimize,0
+PAIDCONTENT,doubleclick.net,Marketing,Google Surveys,0
+_opt_expid,,Analytics,Google Optimize,0
+_gcl_ha,,Marketing,Google Hotel Ads,0
+_gcl_gf,,Marketing,Google Flights,0
+_gcl_aw,,Marketing,Google Ads,0
+_gcl_gs,,Marketing,Google Ads,0
+_gcl_gb,,Marketing,Google Ads,0
+_gac_gb_,,Marketing,Google Ads,1
+FPGCLGB,,Marketing,Google Ads,0
+FPGCLAW,,Marketing,Google Ads,0
+__gsas,,Marketing,Google AdSense,0
+__gpi,,Marketing,Google AdSense,0
+__gpi_optout,,Marketing,Google AdSense,0
+GED_PLAYLIST_ACTIVITY,,Marketing,Google AdSense,0
+ACLK_DATA,,Marketing,Google AdSense,0
+_Secure-ENID,,Functional,Google,0
+Secure-YEC,,Functional,Google,0
+CGIC,,Functional,Google,0
+_Secure-YEC,,Functional,Google,0
+__Secure-YNID,,Functional,Google,0
+AdID,,Marketing,Google,0
+DSID,,Marketing,Google,0
+gcl,,Marketing,Google,0
+gac,,Marketing,Google,0
+AEC,google.com,Functional,Google Ads,0
+ADS_VISITOR_ID,google.com,Marketing,Google Ads,0
+__Secure-3PSIDCC,google.com,Marketing,Google Ads,0
+__Secure-3PSIDTS,google.com,Marketing,Google Ads,0
+__Secure-1PSIDTS,google.com,Marketing,Google Ads,0
+__Secure-1PAPISID,google.com,Marketing,Google Ads,0
+__Secure-3PSID,google.com,Marketing,Google Ads,0
+__Secure-1PSID,google.com,Marketing,Google Ads,0
+__Secure-1PSIDCC,google.com,Marketing,Google Ads,0
+__Secure-3PAPISID,google.com,Marketing,Google Ads,0
+OGPC,google.com,Marketing,Google Maps,0
+OGP,google.com,Marketing,Google Maps,0
+1P_JAR,.gstatic.com,Marketing,Google,0
+CONSENT,.gstatic.com,Functional,Google,0
+SOCS,google.com,Functional,Google,0
+ACCOUNT_CHOOSER,accounts.google.com,Functional,Google,0
+SMSV,accounts.google.com,Functional,Google,0
+__Host-1PLSID,accounts.google.com,Functional,Google,0
+__Host-3PLSID,accounts.google.com,Functional,Google,0
+__Host-GAPS,accounts.google.com,Functional,Google,0
+LSOLH,accounts.google.com,Functional,Google,0
+g_enabled_idps,accounts.google.com,Functional,Google,0
+G_AUTHUSER_H,accounts.google.com,Functional,Google,0
+__Secure-ENID,.google.com,Functional,Google,0
+SEARCH_SAMESITE,google.com,Functional,Google,0
+AID,google.com,Marketing,Google,0
+SID,google.com,Marketing,Google,0
+HSID,google.com,Marketing,Google,0
+APISID,google.com,Marketing,Google,0
+SAPISID,google.com,Marketing,Google,0
+SSID,google.com,Marketing,Google,0
+SIDCC,google.com,Marketing,Google,0
+OTZ,google.com,Marketing,Google,0
+A,google.com,Marketing,Google,0
+DV,google.com,Marketing,Google,0
+NID,google.com,Marketing,Google,0
+TAID,google.com,Marketing,Google,0
+FPGCLDC,google.com,Marketing,Google,0
+_gcl_au,,Marketing,Google,0
+_gcl_dc,,Marketing,Google,0
+_gaexp,,Functional,Google Optimize,0
+GCLB,,Functional,Google,0
+FCCDCF,,Analytics,Google,0
+FCNEC,,Analytics,Google,0
+receive-cookie-deprecation,,Functional,Google,0
+_dcid,,Marketing,Google,0
+SNID,.google.com,Marketing,Google,0
+cookies_accepted,.developers.google.com,Marketing,Google,0
+django_language,,Functional,Django,0
+GN_PREF,news.google.com,Marketing,Google,0
+OSID,.google.com,Marketing,Google,0
+__Secure-OSID,.google.com,Marketing,Google,0
+LSID,.google.com,Marketing,Google,0
+COMPASS,.google.com,Marketing,Google,0
+UULE,.google.com,Marketing,Google,0
+IDE,doubleclick.net (3rd party),Marketing,DoubleClick/Google Marketing,0
+DSID,doubleclick.net (3rd party),Marketing,DoubleClick/Google Marketing,0
+ID,doubleclick.net (3rd party),Marketing,DoubleClick/Google Marketing,0
+RUL,doubleclick.net (3rd party),Marketing,DoubleClick/Google Marketing,0
+FLC,doubleclick.net (3rd party),Marketing,DoubleClick/Google Marketing,0
+__gads,,Marketing,DoubleClick/Google Marketing,0
+GoogleAdServingTest,,Marketing,DoubleClick/Google Marketing,0
+ar_debug,doubleclick.net,Marketing,DoubleClick/Google Marketing,0
+test_cookie,doubleclick.net,Functional,DoubleClick/Google Marketing,0
+APC,doubleclick.net,Marketing,DoubleClick/Google Marketing,0
+S1,nl.sitestat.com (3rd party),Analytics,comScore,0
+C1,nl.sitestat.com (3rd party),Analytics,comScore,0
+s_cc,,Analytics,Adobe Analytics,0
+s_sq,,Analytics,Adobe Analytics,0
+s_vi,or 207.net (3rd party),Analytics,Adobe Analytics,1
+s_fid,,Analytics,Adobe Analytics,0
+fid,,Analytics,Adobe Analytics,0
+s_ecid,,Marketing,Adobe Analytics,0
+s_ppv,,Analytics,Adobe Analytics,0
+s_tp,,Analytics,Adobe Analytics,0
+sat_track,,Functional,Adobe Analytics,0
+demdex,or demdex.net (3rd party),Marketing,Adobe Audience Manager,0
+dextp,,Marketing,Adobe Audience Manager,0
+dst,,Marketing,Adobe Audience Manager,0
+_dp,or demdex.net (3rd party),Marketing,Adobe Audience Manager,0
+aam_uuid,,Marketing,Adobe Audience Manager,0
+AMCV_,,Marketing,Adobe Audience Manager,1
+AMCVS_,,Marketing,Adobe Audience Manager,1
+mbox,,Marketing,Adobe Audience Manager,0
+at_check,,Functional,Adobe Audience Manager,0
+renderid,,Functional,Adobe Audience Manager,0
+dpm,,Marketing,Adobe Audience Manager,0
+TPC,adform.net (3rd party),Marketing,Adform,0
+C,adform.net (3rd party),Marketing,Adform,0
+uid,adform.net (3rd party),Marketing,Adform,0
+cid,adform.net (3rd party),Marketing,Adform,0
+GCM,adform.net (3rd party),Marketing,Adform,0
+CM,adform.net (3rd party),Marketing,Adform,0
+CM14,adform.net (3rd party),Marketing,Adform,0
+token,adform.net (3rd party),Marketing,Adform,0
+otsid,adform.net (3rd party),Marketing,Adform,0
+adtrc,adform.net (3rd party),Marketing,Adform,0
+SR,adform.net (3rd party),Marketing,Adform,1
+CT,adform.net (3rd party),Marketing,Adform,1
+EBFCD,adform.net (3rd party),Marketing,Adform,1
+EBFC,adform.net (3rd party),Marketing,Adform,1
+CFFC,adform.net (3rd party),Marketing,Adform,1
+DigiTrust.v1.identity,adform.net (3rd party),Marketing,Adform,0
+adformfrpid,,Marketing,Adform,0
+lu,facebook.com (3rd party),Marketing,Facebook,0
+xs,facebook.com (3rd party),Marketing,Facebook,0
+c_user,facebook.com (3rd party),Marketing,Facebook,0
+m_user,facebook.com (3rd party),Marketing,Facebook,0
+pl,facebook.com (3rd party),Marketing,Facebook,0
+dbln,facebook.com (3rd party),Marketing,Facebook,0
+aks,facebook.com (3rd party),Marketing,Facebook,0
+aksb,facebook.com (3rd party),Marketing,Facebook,0
+sfau,facebook.com (3rd party),Marketing,Facebook,0
+ick,facebook.com (3rd party),Marketing,Facebook,0
+csm,facebook.com (3rd party),Marketing,Facebook,0
+s,facebook.com (3rd party),Marketing,Facebook,0
+datr,facebook.com (3rd party),Marketing,Facebook,0
+sb,facebook.com (3rd party),Marketing,Facebook,0
+fr,facebook.com (3rd party),Marketing,Facebook,0
+oo,facebook.com (3rd party),Marketing,Facebook,0
+ddid,facebook.com (3rd party),Marketing,Facebook,0
+locale,facebook.com (3rd party),Marketing,Facebook,0
+_fbp,facebook.com (3rd party),Marketing,Facebook,0
+_fbc,facebook.com (3rd party),Marketing,Facebook,0
+js_ver,facebook.com (3rd party),Marketing,Facebook,0
+rc,facebook.com (3rd party),Marketing,Facebook,0
+campaign_click_url,facebook.com (3rd party),Marketing,Facebook,0
+wd,facebook.com (3rd party),Functional,Facebook,0
+usida,facebook.com (3rd party),Marketing,Facebook,0
+presence,facebook.com (3rd party),Functional,Facebook,0
+fl_inst,creative-serving.com (3rd party),Marketing,Platform161,0
+pvc2,creative-serving.com (3rd party),Marketing,Platform161,0
+pcc2,creative-serving.com (3rd party),Marketing,Platform161,0
+trc,creative-serving.com (3rd party),Marketing,Platform161,0
+tuuid,creative-serving.com (3rd party),Marketing,Platform161,0
+ad2,creative-serving.com (3rd party),Marketing,Platform161,0
+MR,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+MUID,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+MUIDB,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+MC1,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+MSFPC,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+_uetsid,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+_uetvid,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+ANON,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+ANONCHK,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+CC,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+PPAuth,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+MSPAuth,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+MSNRPSAuth,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+KievRPSAuth,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+WLSSC,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+MSPProf,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+MC0,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+MS0,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+NAP,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+MH,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+childinfo,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+kcdob,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+kcrelid,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+kcru,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+pcfm,microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+x-ms-gateway-slice,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+ToptOut,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+ACH01,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+AADSSO,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+brcap,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+SRM_B,microsoft.com (3rd party),Functional,Bing / Microsoft,0
+_RwBf,bing.com,Marketing,Bing / Microsoft,0
+_HPVN,bing.com,Marketing,Bing / Microsoft,0
+_UR,bing.com,Marketing,Bing / Microsoft,0
+OID,bing.com,Marketing,Bing / Microsoft,0
+OIDI,bing.com,Marketing,Bing / Microsoft,0
+OIDR,bing.com,Marketing,Bing / Microsoft,0
+BCP,bing.com,Marketing,Bing / Microsoft,0
+BFBUSR,bing.com,Marketing,Bing / Microsoft,0
+BFB,bing.com,Marketing,Bing / Microsoft,0
+ACL,bing.com,Marketing,Bing / Microsoft,0
+ACLUSR,bing.com,Marketing,Bing / Microsoft,0
+MSPTC,bing.com,Marketing,Bing / Microsoft,0
+buid,microsoft.com (3rd party),Functional,Azure / Microsoft,0
+esctx,microsoft.com (3rd party),Functional,Azure / Microsoft,0
+fpc,microsoft.com (3rd party),Functional,Azure / Microsoft,0
+stsservicecookie,microsoft.com (3rd party),Functional,Azure / Microsoft,0
+ARRAffinity,,Functional,Azure / Microsoft,0
+ARRAffinitySameSite,,Functional,Azure / Microsoft,0
+__AntiXsrfToken,,Security,Azure / Microsoft,0
+.ASPXANONYMOUS,,Functional,Azure / Microsoft,0
+.ASPXAUTH,,Functional,Azure / Microsoft,0
+nSGt-,microsoft.com (3rd party),Functional,Azure / Microsoft,1
+RpsContextCookie,microsoft.com (3rd party),Functional,Azure / Microsoft,0
+ASLBSACORS,,Functional,Azure / Microsoft,0
+ASLBSA,,Functional,Azure / Microsoft,0
+ASPSESSIO,,Functional,Azure / Microsoft,1
+ApplicationGatewayAffinity,,Functional,Azure / Microsoft,0
+ApplicationGatewayAffinityCORS,,Functional,Azure / Microsoft,0
+VisitorStorageGuid,,Functional,Azure / Microsoft,0
+.AspNetCore.Mvc.CookieTempDataProvider,,Functional,Azure / Microsoft,0
+x-ms-cpim-admin,,Functional,Azure / Microsoft,0
+x-ms-cpim-slice,,Functional,Azure / Microsoft,0
+x-ms-cpim-trans,,Functional,Azure / Microsoft,0
+x-ms-cpim-sso,,Functional,Azure / Microsoft,1
+x-ms-cpim-cache,,Functional,Azure / Microsoft,1
+x-ms-cpim-csrf,,Functional,Azure / Microsoft,0
+x-ms-cpim-dc,,Functional,Azure / Microsoft,0
+x-ms-cpim-ctx,,Functional,Azure / Microsoft,0
+x-ms-cpim-rp,,Functional,Azure / Microsoft,0
+x-ms-cpim-rc,,Functional,Azure / Microsoft,0
+x-ms-cpim-geo,,Functional,Azure / Microsoft,0
+Dynamics365PortalAnalytics,,Functional,Azure / Microsoft,0
+ai_session,,Functional,Microsoft Azure App Insights,0
+ai_user,,Functional,Microsoft Azure App Insights,0
+AADNonce.forms,forms.office.comm,Functional,Microsoft Dynamics,0
+DcLcid,forms.office.comm,Functional,Microsoft Dynamics,0
+_clck,clarity.ms,Analytics,Microsoft,0
+_clsk,clarity.ms,Analytics,Microsoft,0
+SM,clarity.ms,Analytics,Microsoft,0
+CLID,clarity.ms,Analytics,Microsoft,0
+MicrosoftApplicationsTelemetryDeviceId,,Analytics,Microsoft,0
+esctx-,.login.microsoftonline.com,Functional,Microsoft,1
+isFirstSession,,Functional,Microsoft,1
+MSO,,Functional,Microsoft,1
+X-FD-FEATURES,,Analytics,Microsoft,1
+X-FD-Time,,Analytics,Microsoft,1
+ASP.NET_SessionId,,Functional,ASP.net,0
+guest_id,twitter.com (3rd party),Marketing,X,0
+personalization_id,twitter.com (3rd party),Marketing,X,0
+ct0,twitter.com (3rd party),Marketing,X,0
+gt,twitter.com (3rd party),Marketing,X,0
+guest_id_marketing,twitter.com (3rd party),Marketing,X,0
+guest_id_ads,twitter.com (3rd party),Marketing,X,0
+muc_ads,t.co,Marketing,X,0
+_twitter_sess,twitter.com (3rd party),Marketing,X,0
+ads_prefs,.twitter.com,Marketing,X,0
+auth_token,.twitter.com,Marketing,X,0
+csrf_same_site,.twitter.com,Security,X,0
+csrf_same_site_set,.twitter.com,Security,X,0
+dnt,.twitter.com,Marketing,X,0
+eu_cn,.twitter.com,Marketing,X,0
+external_referer,.twitter.com,Marketing,X,0
+kdt,.twitter.com,Marketing,X,0
+remember_checked_on,.twitter.com,Marketing,X,0
+rweb_optin,.twitter.com,Marketing,X,0
+syndication_guest_id,.twitter.com,Marketing,X,0
+twid,.twitter.com,Marketing,X,0
+tfw_exp,.twitter.com,Marketing,X,0
+__insp_pad,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_sid,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_ref,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_scpt,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_nv,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_wid,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_uid,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+__insp_dct,Inspectlet.com (3rd party),Analytics,Inspectlet,0
+CTK,indeed.com,Analytics,Indeed,0
+ctkgen,,Analytics,Indeed,0
+INDEED_CSRF_TOKEN,,Security,Indeed,0
+jasx_pool_id,,Analytics,Indeed,0
+pagead/conv/%INTEGER%,,Analytics,Indeed,0
+tv_spot_tracker,,Analytics,Abovo Media,0
+cookie-consent-io,,Functional,CookieConsent.io,0
+cookie-consent-io-timestamp,,Functional,CookieConsent.io,1
+cookie-consent-io-gdpr,,Functional,CookieConsent.io,0
+ccec_user,,Marketing,CookieConsent.io,0
+GPS,youtube.com (3rd party),Marketing,Youtube,0
+VISITOR_INFO1_LIVE,youtube.com (3rd party),Marketing,Youtube,0
+PREF,youtube.com (3rd party),Functional,Youtube,0
+YSC,youtube.com (3rd party),Functional,Youtube,0
+DEVICE_INFO,youtube.com (3rd party),Functional,Youtube,0
+LOGIN_INFO,youtube.com (3rd party),Functional,Youtube,0
+VISITOR_PRIVACY_METADATA,youtube.com (3rd party),Marketing,Youtube,0
+__Secure-ROLLOUT_TOKEN,youtube.com (3rd party),Marketing,Youtube,0
+__adm_ui,admatic.com.tr (3rd party),Marketing,Admatic,0
+__adm_uiex,admatic.com.tr (3rd party),Marketing,Admatic,0
+__adm_usyncc,admatic.com.tr (3rd party),Marketing,Admatic,0
+uids,admatic.com.tr (3rd party),Marketing,Admatic,0
+__cfduid,,Functional,Cloudflare,0
+__cfruid,,Functional,Cloudflare,0
+__cf_bm,,Functional,Cloudflare,0
+cf_chl_2,,Functional,Cloudflare,0
+__cflb,,Functional,Cloudflare,0
+_cfuvid,,Functional,Cloudflare,0
+cf_clearance,,Functional,Cloudflare,0
+__cfseq,,Functional,Cloudflare,0
+cf_ob_info,,Functional,CloudFlare,0
+cf_use_ob,,Functional,CloudFlare,0
+__cfwaitingroom,,Functional,CloudFlare,0
+cf_chl_rc_i,,Functional,CloudFlare,0
+cf_chl_rc_ni,,Functional,CloudFlare,0
+cf_chl_rc_m,,Functional,CloudFlare,0
+__uin_bw,.go.sonobi.com (3rd party),Marketing,Sonobi,0
+__uir_bw,.go.sonobi.com (3rd party),Marketing,Sonobi,0
+__uis,.go.sonobi.com (3rd party),Marketing,Sonobi,0
+HAPLB5S,.go.sonobi.com (3rd party),Marketing,Sonobi,0
+__uin_mm,sonobi.com,Marketing,Sonobi,0
+__uir_mm,sonobi.com,Marketing,Sonobi,0
+HAPLB8,go.sonobi.com,Marketing,Sonobi,1
+_dbefe,contextweb.com (3rd party),Marketing,Pulsepoint,0
+_hjHasCachedUserAttributes,,Analytics,Hotjar,0
+_hjid,,Analytics,Hotjar,0
+hj_visitor,,Analytics,Hotjar,0
+_hjIncludedInSample,,Analytics,Hotjar,0
+_hjClosedSurveyInvites,,Analytics,Hotjar,0
+_hjDonePolls,,Analytics,Hotjar,0
+_hjMinimizedPolls,,Analytics,Hotjar,0
+_hjDoneTestersWidgets,,Analytics,Hotjar,0
+_hjMinimizedTestersWidgets,,Analytics,Hotjar,0
+_hjShownFeedbackMessage,,Analytics,Hotjar,0
+_hjTLDTest,,Functional,Hotjar,0
+_hjUserAttributesHash,,Functional,Hotjar,0
+_hjCachedUserAttributes,,Analytics,Hotjar,0
+_hjLocalStorageTest,,Functional,Hotjar,0
+_hjptid,,Functional,Hotjar,0
+_hjAbsoluteSessionInProgress,,Functional,Hotjar,0
+_hjFirstSeen,,Functional,Hotjar,0
+_hjIncludedInPageviewSample,,Functional,Hotjar,0
+_hjIncludedInSessionSample,,Functional,Hotjar,1
+_hjSession_,,Functional,Hotjar,1
+_hjSessionUser_,,Functional,Hotjar,1
+_hjSessionTooLarge,,Functional,Hotjar,0
+_hjSessionRejected,,Functional,Hotjar,0
+_hjSessionResumed,,Functional,Hotjar,0
+hjViewportId,,Functional,Hotjar,0
+_hjSessionStorageTest,,Functional,Hotjar,0
+_hjCookieTest,,Functional,Hotjar,0
+ac_enable_tracking,,Marketing,Active Campaign,0
+prism_,,Marketing,Active Campaign,1
+ASP.NET_Sessio,,Functional,Microsoft,0
+ASP.NET_Sessio_Fallback,,Functional,Microsoft,0
+JSESSIO,,Functional,Oracle,0
+ORA_WWV_APP_,,Functional,Oracle,1
+ELOQUA,.eloqua.com,Analytics,Oracle,0
+ELQSTATUS,.eloqua.com,Analytics,Oracle,0
+laravel_session,,Functional,Laravel,0
+PHPSESSID,,Functional,PHP.net,0
+__Secure-PHPSESSID,,Functional,PHP.net,0
+XSRF-TOKEN,,Security,,0
+lidc,linkedin.com (3rd party),Marketing,LinkedIn,0
+bcookie,linkedin.com (3rd party),Marketing,LinkedIn,0
+bscookie,linkedin.com (3rd party),Marketing,LinkedIn,0
+trkCode,linkedin.com (3rd party),Marketing,LinkedIn,0
+trkInfo,linkedin.com (3rd party),Marketing,LinkedIn,0
+li_oatml,linkedin.com (3rd party),Marketing,LinkedIn,0
+liap,linkedin.com (3rd party),Marketing,LinkedIn,0
+lissc,linkedin.com (3rd party),Marketing,LinkedIn,0
+spectroscopyId,linkedin.com (3rd party),Marketing,LinkedIn,0
+UserMatchHistory,linkedin.com (3rd party),Marketing,LinkedIn,0
+lang,linkedin.com (3rd party),Functional,LinkedIn,0
+li_gc,linkedin.com (3rd party),Functional,LinkedIn,0
+li_rm,linkedin.com (3rd party),Functional,LinkedIn,0
+AnalyticsSyncHistory,linkedin.com (3rd party),Analytics,LinkedIn,0
+ln_or,,Analytics,LinkedIn,0
+li_sugr,,Marketing,LinkedIn,0
+sdsc,.linkedin.com,Functional,LinkedIn,0
+li_mc,.linkedin.com,Functional,LinkedIn,0
+lms_ads,.linkedin.com,Marketing,LinkedIn,0
+_guid,linkedin.com,Marketing,LinkedIn,0
+BizographicsOptOut,.linkedin.com,Marketing,LinkedIn,0
+IRLD,.linkedin.com,Marketing,LinkedIn,0
+l_page,.linkedin.com,Analytics,LinkedIn,0
+ABSELB,.linkedin.com,Marketing,LinkedIn,0
+brwsr,.linkedin.com,Marketing,LinkedIn,0
+lihc_auth_,.linkedin.com,Functional,LinkedIn,0
+li_a,.linkedin.com,Functional,LinkedIn,0
+li_ep_auth_context,.linkedin.com,Functional,LinkedIn,0
+fcookie,.linkedin.com,Functional,LinkedIn,0
+ccookie,.linkedin.com,Functional,LinkedIn,0
+chp_token,.linkedin.com,Functional,LinkedIn,0
+li_cu,.linkedin.com,Functional,LinkedIn,0
+denial-client-ip,.linkedin.com,Functional,LinkedIn,0
+denial-reason-code,.linkedin.com,Functional,LinkedIn,0
+rtc,.linkedin.com,Functional,LinkedIn,0
+li_referer,.linkedin.com,Functional,LinkedIn,0
+f_token,.linkedin.com,Functional,LinkedIn,0
+li_apfcdc,.linkedin.com,Functional,LinkedIn,0
+li_odapfcc,.linkedin.com,Functional,LinkedIn,0
+ac_L,.linkedin.com,Functional,LinkedIn,0
+ac_LD,.linkedin.com,Functional,LinkedIn,0
+recent_history_status,.linkedin.com,Functional,LinkedIn,0
+all_u_b,.linkedin.com,Functional,LinkedIn,0
+uh,.linkedin.com,Functional,LinkedIn,0
+pushPermInfo,.linkedin.com,Functional,LinkedIn,0
+pushPermState,.linkedin.com,Functional,LinkedIn,0
+wwepo,.linkedin.com,Functional,LinkedIn,0
+li_ec,.linkedin.com,Functional,LinkedIn,0
+li_gpc,.linkedin.com,Functional,LinkedIn,0
+li_gp,.linkedin.com,Functional,LinkedIn,0
+PLAY_FLASH,.linkedin.com,Functional,LinkedIn,0
+PLAY_LANG,.linkedin.com,Functional,LinkedIn,0
+PLAY_SESSION,.linkedin.com,Functional,LinkedIn,0
+redirectFromM2MInviteAccept,linkedin.com,Functional,LinkedIn,0
+redirectFromM2MInviteSent,.linkedin.com,Functional,LinkedIn,0
+cookie.policy.banner.eu,.linkedin.com,Functional,LinkedIn,0
+cookie.policy.banner.nl,.linkedin.com,Functional,LinkedIn,0
+appName,linkedin.com,Functional,LinkedIn,0
+appLang,linkedin.com,Functional,LinkedIn,0
+lls-integration,.linkedin.com,Functional,LinkedIn,0
+feed-sort,.linkedin.com,Functional,LinkedIn,0
+abiRedirect,.linkedin.com,Functional,LinkedIn,0
+lil-lang,.linkedin.com,Functional,LinkedIn,0
+li_alerts,.linkedin.com,Functional,LinkedIn,0
+li_theme,.linkedin.com,Functional,LinkedIn,0
+integration_type,linkedin.com,Functional,LinkedIn,0
+li_theme_set,.linkedin.com,Functional,LinkedIn,0
+lms_analytics,.linkedin.com,Functional,LinkedIn,0
+li_fat_id,,Functional,LinkedIn,0
+li_giant,,Functional,LinkedIn,0
+queryString,,Analytics,LinkedIn,0
+VID,.linkedin.com,Analytics,LinkedIn,0
+recent_history,.linkedin.com,Functional,LinkedIn,0
+sharebox-suggestion,.linkedin.com,Analytics,LinkedIn,0
+li_cc,.linkedin.com,Analytics,LinkedIn,0
+lss_bundle_viewer,.linkedin.com,Analytics,LinkedIn,0
+interstitial_page_reg_oauth_url,.linkedin.com,Analytics,LinkedIn,0
+df_ts,linkedin.com,Analytics,LinkedIn,0
+li_feed_xray,.linkedin.com,Analytics,LinkedIn,0
+oribi_user_guid,.oribi.io,Analytics,Oribi,0
+oribi_cookie_test,linkedin.com,Analytics,Oribi,0
+AWSALB,,Functional,Amazon Web Services,0
+AWSALBCORS,,Functional,Amazon Web Services,0
+AWSELBCORS,,Functional,Amazon Web Services,0
+AWSELB,,Functional,Amazon Web Services,0
+AWSALBTGCORS,,Functional,Amazon Web Services,0
+AWSALBTG,,Functional,Amazon Web Services,0
+aws-csds-token,,Functional,Amazon Web Services,0
+aws_lang,,Functional,Amazon Web Services,0
+aws-target-visitor-id,,Analytics,Amazon Web Services,0
+aws-priv,,Functional,Amazon Web Services,0
+ad-id,amazon-adsystem.com,Marketing,Amazon,0
+ad-privacy,amazon-adsystem.com,Marketing,Amazon,0
+CMID,casalemedia.com,Marketing,Casale Media,0
+CMPRO,casalemedia.com,Marketing,Casale Media,0
+CMPS,casalemedia.com,Marketing,Casale Media,0
+CMRUM3,casalemedia.com,Marketing,Casale Media,0
+CMST,casalemedia.com,Marketing,Casale Media,0
+cookieJartestCookie,outbrain.com,Marketing,Outbrain,0
+obuid,outbrain.com,Marketing,Outbrain,0
+apnxs,outbrain.com,Marketing,Outbrain,0
+criteo,outbrain.com,Marketing,Outbrain,0
+mdfrc,outbrain.com,Marketing,Outbrain,0
+adrl,outbrain.com,Marketing,Outbrain,0
+ttd,outbrain.com,Marketing,Outbrain,0
+recs,outbrain.com,Marketing,Outbrain,0
+_cq_duid,,Functional,CHEQ AI Technologies,0
+_cq_suid,,Functional,CHEQ AI Technologies,0
+jpxumaster,justpremium.com,Marketing,justpremium.com,0
+jpxumatched,justpremium.com,Marketing,justpremium.com,0
+PUBMDCID,pubmatic.com,Marketing,PubMatic,0
+pp,pubmatic.com,Marketing,PubMatic,0
+SPugT,pubmatic.com,Marketing,PubMatic,0
+KADUSERCOOKIE,pubmatic.com,Marketing,PubMatic,0
+PUBRETARGET,pubmatic.com,Marketing,PubMatic,0
+KCCH,pubmatic.com,Marketing,PubMatic,0
+SyncRTB,pubmatic.com,Marketing,PubMatic,1
+DPSync,pubmatic.com,Marketing,PubMatic,1
+ADUSERCOOKIE,pubmatic.com,Marketing,PubMatic,0
+PugT,pubmatic.com,Marketing,PubMatic,0
+KRTBCOOKIE_,pubmatic.com,Marketing,PubMatic,1
+f5_cspm,simage2.pubmatic.com,Analytics,PubMatic,0
+KTPCACOOKIE,pubmatic.com,Functional,PubMatic,0
+COKENBLD,pubmatic.com,Functional,PubMatic,0
+USCC,pubmatic.com,Marketing,PubMatic,0
+DPPIX_ON,pubmatic.com,Marketing,PubMatic,0
+SYNCUPPIX_ON,pubmatic.com,Marketing,PubMatic,0
+PUBUIDSYNCUPFQ,pubmatic.com,Functional,PubMatic,0
+camfreq_,pubmatic.com,Marketing,PubMatic,1
+pubfreq_,pubmatic.com,Marketing,PubMatic,1
+pubtime_,pubmatic.com,Functional,PubMatic,1
+PMFREQ_ON,pubmatic.com,Functional,PubMatic,0
+DPFQ,pubmatic.com,Marketing,PubMatic,0
+pi,pubmatic.com,Marketing,PubMatic,0
+FPtrust,pubmatic.com,Functional,PubMatic,0
+_curtime,pubmatic.com,Functional,PubMatic,0
+PMDTSHR,pubmatic.com,Functional,PubMatic,0
+chk,pubmatic.com,Functional,PubMatic,0
+chkSecSet,pubmatic.com,Functional,PubMatic,0
+chkChromeAb67,pubmatic.com,Functional,PubMatic,0
+chkChromeAb67Sec,pubmatic.com,Functional,PubMatic,0
+pubsyncexp,pubmatic.com,Functional,PubMatic,0
+ipc,pubmatic.com,Functional,PubMatic,0
+Kiyohnl,kiyoh.nl,Functional,Kiyoh,0
+id5,id5-sync.com,Marketing,ID5,0
+cip,id5-sync.com,Marketing,ID5,0
+car,id5-sync.com,Marketing,ID5,0
+callback,id5-sync.com,Marketing,ID5,0
+cnac,id5-sync.com,Marketing,ID5,0
+cf,id5-sync.com,Marketing,ID5,0
+gdpr,id5-sync.com,Functional,ID5,0
+gpp,id5-sync,Functional,ID5,0
+UIDR,.scorecardresearch.com,Marketing,ComScore,0
+UID,.scorecardresearch.com,Marketing,ComScore,0
+PID,.scorecardresearch.com,Marketing,ComScore,0
+XID,.scorecardresearch.com,Marketing,ComScore,0
+SEUNCY,semasio.net,Marketing,semasio.net,0
+ljt_reader,,Marketing,Federated Media Publishing,0
+rek_content,rekmob.com,Marketing,rekmob.com,0
+um,ad.360yield.com,Marketing,Improve Digital,0
+umeh,ad.360yield.com,Marketing,Improve Digital,0
+BSWtracker,vmg.host,Marketing,vmg.host,0
+_rxuuid,1rx.io,Marketing,1rx.io,0
+AA003,atdmt.com,Marketing,Atlas,0
+ATN,atdmt.com,Marketing,Atlas,0
+tt_viewer,teads.com,Marketing,Teads,0
+tt_bluekai,.teads.tv,Marketing,Teads,0
+tt_exelate,.teads.tv,Marketing,Teads,0
+tt_liveramp,.teads.tv,Marketing,Teads,0
+tt_neustar,.teads.tv,Marketing,Teads,0
+tt_salesforce,.teads.tv,Marketing,Teads,0
+cfid,,Functional,Adobe ColdFusion,0
+cftoken,,Functional,Adobe ColdFusion,0
+um2,visx.net,Marketing,Visx.net,0
+tuuid_lu,bidswitch.net,Marketing,bidswitch.net,0
+uu,adscale.de,Marketing,adscale.de,0
+cct,adscale.de,Marketing,adscale.de,0
+tu,adscale.de,Marketing,adscale.de,0
+betweendigital.com,ut,Marketing,betweendigital.com,0
+ss,betweendigital.com,Functional,betweendigital.com,0
+st_csd,seedtag.com,Marketing,Seedtag,0
+st_cs,seedtag.com,Marketing,Seedtag,0
+st_uid,seedtag.com,Marketing,Seedtag,0
+st_cnt,seedtag.com,Marketing,Seedtag,0
+st_chc,seedtag.com,Marketing,Seedtag,0
+st_ssp,seedtag.com,Marketing,Seedtag,0
+cnfq,smartadserver.com,Marketing,Smartadserver,0
+lcsrc,smartadserver.com,Marketing,Smartadserver,0
+dyncdn,smartadserver.com,Functional,Smartadserver,0
+gid,smartadserver.com,Marketing,Smartadserver,0
+csfq,smartadserver.com,Marketing,Smartadserver,0
+partner-,smartadserver.com,Marketing,Smartadserver,1
+vs,smartadserver.com,Analytics,Smartadserver,0
+Comp,smartadserver.com,Marketing,Smartadserver,0
+Pwb,smartadserver.com,Marketing,Smartadserver,0
+Pdomid,smartadserver.com,Functional,Smartadserver,0
+sasd,smartadserver.com,Marketing,Smartadserver,0
+sasd2,smartadserver.com,Marketing,Smartadserver,0
+TestIfCookie,,Marketing,Smartadserver,0
+csync,smartadserver.com,Marketing,Smartadserver,0
+TestIfCookieP,smartadserver.com,Marketing,Smartadserver,0
+pid,.smartadserver.com,Marketing,Smartadserver,0
+pbw,.smartadserver.com,Analytics,Smartadserver,0
+lcsrd,.smartadserver.com,Marketing,Smartadserver,0
+.AspNetCore.Antiforgery.,,Security,Microsoft,1
+unruly_m,,Marketing,Unrulymedia.com,1
+bdswch,outbrain.com,Marketing,Outbrain,0
+lidid,liadm.com,Marketing,LiveIntent,0
+_li_ss,liadm.com,Marketing,LiveIntent,0
+tluid,3lift.com,Marketing,TripleLift,0
+tluidp,3lift.com,Marketing,TripleLift,0
+optout,3lift.com,Marketing,TripleLift,0
+sync,3lift.com,Marketing,TripleLift,0
+t_gid,taboola.com,Marketing,Taboola,0
+t_pt_gid,.taboola.com,Functional,Taboola,0
+taboola_session_id,.taboola.com,Marketing,Taboola,0
+taboola_select,.taboola.com,Functional,Taboola,0
+taboola_fp_td_user_id,.taboola.com,Functional,Taboola,0
+_tb_sess_r,.taboola.com,Functional,Taboola,0
+_tb_t_ppg,.taboola.com,Marketing,Taboola,0
+abLdr,.taboola.com,Analytics,Taboola,0
+abMbl,.taboola.com,Analytics,Taboola,0
+tb_click_param,.taboola.com,Analytics,Taboola,0
+i,,Marketing,openx.net,0
+univ_id,openx.net,Marketing,openx.net,0
+pd,openx.net,Marketing,openx.net,0
+OAID,,Marketing,openx.net,0
+OAGEO,,Marketing,openx.net,1
+DG_HID,funda.nl,Marketing,Funda,0
+DG_IID,funda.nl,Marketing,Funda,0
+DG_SID,funda.nl,Marketing,Funda,0
+DG_UID,funda.nl,Marketing,Funda,0
+DG_ZID,funda.nl,Marketing,Funda,0
+DG_ZUID,funda.nl,Marketing,Funda,0
+fonts-loaded,funda.nl,Functional,Funda,0
+html-classes,funda.nl,Functional,Funda,0
+SNLB2,funda.nl,Functional,Funda,0
+lz_last_visit,,Functional,LiveZilla GmbH,0
+lz_userid,,Functional,LiveZilla GmbH,0
+lz_visits,,Functional,LiveZilla GmbH,0
+.secureclient,,Functional,AFAS,0
+.securesession,,Functional,AFAS,0
+.stateflags,,Functional,AFAS,0
+.auth,,Functional,AFAS,0
+advst_uid_11,.adxcore.com,Marketing,Adxcore,0
+DISPATCHER,dispatcher.adxcore.com,Marketing,Adxcore,0
+DSP_UID,fidelity-media.com,Marketing,Fidelity-media.com,0
+picreel_tracker__visited,,Analytics,Picreel,0
+picreel_tracker__first_visit,,Analytics,Picreel,0
+picreel_tracker__page_views,,Analytics,Picreel,0
+picreel_new_price,,Analytics,Picreel,0
+__auc,.trustpilot.com,Analytics,Trustpilot,0
+ajs_user_id,.trustpilot.com,Analytics,Trustpilot,0
+ajs_anonymous_id,.trustpilot.com,Analytics,Trustpilot,0
+ajs_group_id,.trustpilot.com,Analytics,Trustpilot,0
+__asc,.trustpilot.com,Analytics,Trustpilot,0
+__insp_norec_sess,inspectlet.com,Analytics,Inspectlet,0
+__insp_slim,inspectlet.com,Analytics,Inspectlet,0
+__insp_targlpt,inspectlet.com,Analytics,Inspectlet,0
+__insp_targlpu,inspectlet.com,Analytics,Inspectlet,0
+__RequestVerificationToken,,Functional,Microsoft,1
+_cc_aud,crwdcntrl.net,Marketing,Lotame,0
+_cc_cc,crwdcntrl.net,Marketing,Lotame,0
+_cc_id,crwdcntrl.net,Marketing,Lotame,0
+panoramaId,,Marketing,Lotame,0
+panoramaId_expiry,,Marketing,Lotame,0
+panoramaId_expiry_exp,,Marketing,Lotame,0
+_cc_domain,,Marketing,Lotame,0
+ab,agkn.com,Marketing,Neustar,0
+bkdc,bluekai.com,Marketing,BlueKai,0
+bku,bluekai.com,Marketing,BlueKai,0
+everest_g_v2,everesttech.net,Marketing,Adobe Advertising,0
+everest_session_v2,everesttech.net,Marketing,Adobe Advertising,0
+ev_tm,everesttech.net,Marketing,Adobe Advertising,0
+_tmae,everesttech.net,Marketing,Adobe Advertising,0
+_lcc,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_ax,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_bk,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_dd,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_fs,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_ix,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_nx,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_ox,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_pm,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_rc,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_tm,everesttech.net,Marketing,Adobe Advertising,0
+ev_sync_yh,everesttech.net,Marketing,Adobe Advertising,0
+adcloud,,Marketing,Adobe Advertising,0
+id_adcloud,,Marketing,Adobe Advertising,0
+mt_misc,mathtag.com,Marketing,MediaMath,0
+mt_mop,mathtag.com,Marketing,MediaMath,0
+pl_user_id,powerlinks.com,Marketing,PowerLinks,0
+pxrc,rlcdn.com,Marketing,Rapleaf,0
+rlas3,rlcdn.com,Marketing,Rapleaf,0
+TapAd_DID,tapad.com,Marketing,Tapad,0
+TapAd_TS,tapad.com,Marketing,Tapad,0
+TapAd_3WAY_SYNCS,,Marketing,Tapad,0
+TDCPM,adsrvr.org,Marketing,The Tradedesk,0
+TDID,adsrvr.org,Marketing,The Tradedesk,0
+uid-bp-,stickyadstv.com,Marketing,FreeWheel,1
+MRM_UID,stickyadstv.com,Marketing,FreeWheel,0
+uuidc,mathtag.com,Marketing,MediaMath,0
+zc,zeotap.com,Marketing,Zeotap,0
+zsc,zeotap.com,Marketing,Zeotap,0
+zi,zeotap.com,Marketing,Zeotap,0
+idp,zeotap.com,Marketing,Zeotap,0
+zuc,zeotap.com,Marketing,Zeotap,0
+amplitude_id,trustpilot.com,Marketing,Trustpilot,1
+csrf-canary,trustpilot.com,Security,Trustpilot,0
+3pi,id5-sync.com,Marketing,ID5,0
+am-uid,admixer.net,Marketing,Admixer,0
+_cc_dc,crwdcntrl.net,Marketing,Lotame,0
+bkpa,bluekai.com,Marketing,BlueKai,0
+_ljtrtb_,lijit.com,Marketing,SOVRN,1
+ljtrtb,lijit.com,Marketing,SOVRN,0
+uuid,mathtag.com,Marketing,Mediamath,0
+_pinterest_cm,pinterest.com,Functional,Pinterest,0
+_pinterest_sess,pinterest.com,Functional,Pinterest,0
+_pin_unauth,pinterest.com,Marketing,Pinterest,0
+_pinterest_ct_ua,pinterest.com,Marketing,Pinterest,0
+sessionFunnelEventLogged,pinterest.com,Marketing,Pinterest,0
+_routing_id,pinterest.com,Marketing,Pinterest,0
+_derived_epik,pinterest.com,Marketing,Pinterest,0
+_pinterest_ct,,Marketing,Pinterest,0
+_pinterest_ct_rt,,Marketing,Pinterest,0
+_epik,pinterest.com,Marketing,Pinterest,0
+Nop.customer,,Functional,nopCommerce,0
+NopCommerce.RecentlyViewedProducts,,Functional,nopCommerce,0
+NOPCOMMERCE.AUTH,,Functional,nopCommerce,0
+tsrvid,,Functional,FeedbackCompany,0
+form_key,,Security,Magento,0
+product_data_storage,,Functional,Magento,1
+mage-cache-sessid,,Functional,Magento,0
+mage-cache-storage,,Functional,Magento,1
+mage-cache-storage-section-invalidation,,Functional,Magento,1
+mage-cache-timeout,,Functional,Magento,1
+mage-messages,,Functional,Magento,0
+mage-translation-file-version,,Functional,Magento,0
+mage-translation-storage,,Functional,Magento,0
+recently_compared_product,,Functional,Magento,1
+recently_compared_product_previous,,Functional,Magento,1
+recently_viewed_product,,Functional,Magento,1
+recently_viewed_product_previous,,Functional,Magento,1
+user_allowed_save_cookie,,Functional,Magento,0
+external_no_cache,,Functional,Magento,0
+persistent_shopping_cart,,Functional,Magento,0
+stf,,Functional,Magento,0
+pollN,,Functional,Magento,0
+frontend,,Functional,Magento,0
+guest-view,,Functional,Magento,0
+mage-banners-cache-storage,,Functional,Magento,0
+searchReport-log,,Functional,Magento,0
+private_content_version,,Functional,Magento,0
+X-Magento-Vary,,Functional,Magento,0
+section_data_ids,,Functional,Magento,0
+section_data_clean,,Functional,Magento,0
+last_visited_store,,Functional,Magento,0
+store,,Functional,Magento,0
+login_redirect,,Functional,Magento,0
+dsps:,px.powerlinks.com,Marketing,PowerLinks Media Limited,1
+_mb,vuble.tv,Marketing,Vuble,0
+wordpress_test_cookie,,Functional,Wordpress,0
+componentType,,Functional,Joomla!,0
+componentStyle,,Functional,Joomla!,0
+nrid,,Functional,Joomla! Engagebox,0
+koitk,.marketingautomation.services,Marketing,Sharpspring,0
+__ss_referrer,,Marketing,Sharpspring,0
+__ss_tk,,Marketing,Sharpspring,0
+__ss,,Marketing,Sharpspring,0
+_pk_id,,Analytics,Matomo,1
+_pk_ref,,Analytics,Matomo,1
+_pk_ses,,Analytics,Matomo,1
+_pk_cvar,,Analytics,Matomo,0
+_pk_hsr,,Analytics,Matomo,1
+_pk_testcookie,,Analytics,Matomo,1
+mtm_consent,,Analytics,Matomo,0
+mtm_consent_removed,,Analytics,Matomo,0
+mtm_cookie_consent,,Analytics,Matomo,0
+matomo_ignore,,Analytics,Matomo,0
+matomo_sessid,,Analytics,Matomo,0
+datatrics_optin,,Marketing,Datatrics,0
+datatricsDebugger,,Marketing,Datatrics,0
+datatrics_customData,,Marketing,Datatrics,0
+_wepublishGa,,Analytics,WePublish,0
+_wepublishGa_gid,,Analytics,WePublish,0
+OptanonConsent,,Functional,OneTrust,0
+OptanonAlertBoxClosed,,Functional,OneTrust,0
+OptanonControl,,Functional,OneTrust,0
+OneTrustWPCCPAGoogleOptOut,,Functional,OneTrust,0
+FunctionalCookie,,Functional,OneTrust,0
+_mkto_trk,.onetrust.com,Marketing,OneTrust,0
+utm_key,.onetrust.com,Functional,OneTrust,0
+__Secure-fgpt,.onetrust.com,Functional,OneTrust,0
+optimizelyEndUserId,,Marketing,Optimizely,0
+optimizelyRedirectData,,Marketing,Optimizely,0
+optimizelyDomainTestCookie,,Marketing,Optimizely,0
+optimizelyOptOut,,Marketing,Optimizely,0
+wwwchannelme_z_sid,,Functional,Channel.me,0
+app_ts,adscience.nl,Marketing,Ortec,0
+viewer,adscience.nl,Marketing,Ortec,0
+spx_ts,adscience.nl,Marketing,Ortec,0
+adx_ts,adscience.nl,Marketing,Ortec,0
+id_ts,adscience.nl,Marketing,Ortec,0
+euconsent,faktor.io,Marketing,LiveRamp,0
+SSR-caching,wix.com,Functional,Wix.com,0
+smSession,wix.com,Functional,Wix.com,0
+svSession,wix.com,Marketing,Wix.com,0
+ForceFlashSite,wix.com,Functional,Wix.com,0
+hs,wix.com,Functional,Wix.com,0
+bSession,,Functional,Wix.com,0
+TS01,,Functional,Wix.com,1
+fedops.logger.sessionId,,Functional,Wix.com,0
+wixLanguage,,Functional,Wix.com,0
+_wixCIDX,,Functional,Wix.com,0
+_wix_browser_sess,,Functional,Wix.com,0
+consent-policy,,Functional,Wix.com,0
+client-session-bind,,Functional,Wix.com,0
+server-session-bind,,Functional,Wix.com,0
+_ab,shopify.com,Functional,Shopify,0
+_secure_session_id,shopify.com,Functional,Shopify,0
+Cart,shopify.com,Functional,Shopify,0
+cart_sig,shopify.com,Functional,Shopify,0
+cart_ts,shopify.com,Functional,Shopify,0
+checkout_token,shopify.com,Functional,Shopify,0
+Secret,shopify.com,Functional,Shopify,0
+Secure_customer_sig,shopify.com,Functional,Shopify,0
+storefront_digest,shopify.com,Functional,Shopify,0
+_shopify_u,shopify.com,Functional,Shopify,0
+_tracking_consent,shopify.com,Marketing,Shopify,0
+_landing_page,shopify.com,Marketing,Shopify,0
+_orig_referrer,shopify.com,Marketing,Shopify,0
+_s,shopify.com,Analytics,Shopify,0
+_shopify_fs,shopify.com,Analytics,Shopify,0
+_shopify_s,shopify.com,Analytics,Shopify,0
+_shopify_sa_t,shopify.com,Marketing,Shopify,0
+_shopify_uniq,shopify.com,Analytics,Shopify,0
+_shopify_visit,shopify.com,Analytics,Shopify,0
+_shopify_y,shopify.com,Analytics,Shopify,0
+_y,shopify.com,Analytics,Shopify,0
+tracked_start_checkout,shopify.com,Analytics,Shopify,0
+ki_r,shopify.com,Analytics,Shopify,0
+ki_t,shopify.com,Analytics,Shopify,0
+_Brochure_session,shopify.com,Analytics,Shopify,0
+shopify_pay_redirect,shopify.com,Functional,Shopify,0
+cart_currency,shopify.com,Functional,Shopify,0
+dynamic_checkout_shown_on_cart,shopify.com,Functional,Shopify,0
+keep_alive,shopify.com,Functional,Shopify,0
+checkout_session_token,,Functional,Shopify,1
+checkout_session_lookup,,Functional,Shopify,0
+cart_ver,,Functional,Shopify,0
+localization,,Functional,Shopify,0
+locale_bar_accepted,,Functional,Shopify,0
+_cmp_a,,Functional,Shopify,0
+_shopify_country,,Functional,Shopify,0
+_customer_account_shop_sessions,,Functional,Shopify,0
+_secure_account_session_id,,Functional,Shopify,0
+_shopify_m,shopify.com,Functional,Shopify,0
+_shopify_tm,shopify.com,Functional,Shopify,0
+_shopify_tw,shopify.com,Functional,Shopify,0
+_storefront_u,shopify.com,Functional,Shopify,0
+customer_account_locale,shopify.com,Functional,Shopify,0
+hide_shopify_pay_for_checkout,shopify.com,Functional,Shopify,0
+master_device_id,shopify.com,Functional,Shopify,0
+previous_step,shopify.com,Functional,Shopify,0
+discount_code,shopify.com,Functional,Shopify,0
+remember_me,shopify.com,Functional,Shopify,0
+shopify_pay,shopify.com,Functional,Shopify,0
+shop_pay_accelerated,shopify.com,Functional,Shopify,0
+checkout_prefill,shopify.com,Functional,Shopify,0
+checkout_queue_token,shopify.com,Functional,Shopify,0
+checkout_worker_session,shopify.com,Functional,Shopify,0
+checkout_session_token_,shopify.com,Functional,Shopify,1
+identity-state,shopify.com,Functional,Shopify,0
+identity-state-,shopify.com,Functional,Shopify,1
+identity_customer_account_number,shopify.com,Functional,Shopify,0
+card_update_verification_id,shopify.com,Functional,Shopify,0
+customer_account_new_login,shopify.com,Functional,Shopify,0
+customer_account_preview,shopify.com,Functional,Shopify,0
+customer_payment_method,shopify.com,Functional,Shopify,0
+customer_shop_pay_agreement,shopify.com,Functional,Shopify,0
+pay_update_intent_id,shopify.com,Functional,Shopify,0
+profile_preview_token,shopify.com,Functional,Shopify,0
+login_with_shop_finalize,shopify.com,Functional,Shopify,0
+preview_theme,shopify.com,Functional,Shopify,0
+shopify-editor-unconfirmed-settings,shopify.com,Functional,Shopify,0
+_shopify_d,,Analytics,Shopify,0
+shop_analytics,,Analytics,Shopify,0
+_shopify_sa_p,,Analytics,Shopify,0
+_shopify_ga,,Analytics,Shopify,0
+_shopify_essential,,Functional,Shopify,0
+_shopify_essential_,,Functional,Shopify,1
+__hs_opt_out,hubspot.com,Functional,Hubspot,0
+__hs_do_not_track,hubspot.com,Functional,Hubspot,0
+__hs_initial_opt_in,hubspot.com,Functional,Hubspot,0
+hs_ab_test,hubspot.com,Functional,Hubspot,0
+hs-messages-is-open,hubspot.com,Functional,Hubspot,0
+hs-messages-hide-welcome-message,hubspot.com,Functional,Hubspot,0
+__hsmem,hubspot.com,Functional,Hubspot,0
+hs-membership-csrf,hubspot.com,Security,Hubspot,0
+hs_langswitcher_choice,hubspot.com,Functional,Hubspot,0
+__hstc,hubspot.com,Marketing,Hubspot,0
+hubspotutk,hubspot.com,Marketing,Hubspot,0
+__hssc,hubspot.com,Marketing,Hubspot,0
+__hssrc,hubspot.com,Marketing,Hubspot,0
+messagesUtk,hubspot.com,Marketing,Hubspot,0
+hubspotapi,hubspot.com,Marketing,Hubspot,0
+hubspotapi-prefs,hubspot.com,Functional,Hubspot,0
+hubspotapi-csrf,hubspot.com,Security,Hubspot,0
+__hs_cookie_cat_pref,,Functional,HubSpot,0
+__hs_gpc_banner_dismiss,,Functional,HubSpot,0
+__hs_notify_banner_dismiss,,Functional,HubSpot,0
+vuid,vimeo.com,Analytics,Vimeo,0
+Player,vimeo.com,Functional,Vimeo,0
+continuous_play_v3,vimeo.com,Functional,Vimeo,0
+sd_identity,vimeo.com,Analytics,Vimeo,0
+sd_client_id,vimeo.com,Analytics,Vimeo,0
+__stripe_mid,stripe.com,Functional,Stripe,0
+__stripe_sid,stripe.com,Functional,Stripe,0
+m,m.stripe.com,Functional,Stripe,0
+_gat_pro,snapwidget.com,Functional,Snapwidget,0
+woocommerce_cart_hash,woocommerce.com,Functional,WooCommerce,0
+woocommerce_items_in_cart,woocommerce.com,Functional,WooCommerce,0
+wp_woocommerce_session_,woocommerce.com,Functional,WooCommerce,1
+woocommerce_recently_viewed,woocommerce.com,Functional,WooCommerce,0
+store_notice,,Functional,WooCommerce,1
+woocommerce_snooze_suggestions__,,Functional,WooCommerce,1
+woocommerce_dismissed_suggestions__,,Functional,WooCommerce,1
+tk_ai,,Functional,WooCommerce / Jetpack,0
+sbjs_session,,Analytics,WooCommerce,0
+sbjs_udata,,Analytics,WooCommerce,0
+sbjs_first,,Analytics,WooCommerce,0
+sbjs_current,,Analytics,WooCommerce,0
+sbjs_first_add,,Analytics,WooCommerce,0
+sbjs_current_add,,Analytics,WooCommerce,0
+sbjs_migrations,,Analytics,WooCommerce,0
+edgebucket,reddit.com,Marketing,Reddit,0
+initref,reddit.com,Marketing,Reddit,0
+_rdt_uuid,,Marketing,Reddit,0
+incap_ses_,,Functional,Imperva,1
+nlbi_,,Functional,Imperva,1
+visid_incap_,,Functional,Imperva,1
+sp_t,spotify.com,Functional,Spotify,0
+sp_landing,spotify.com,Functional,Spotify,0
+anj,adnxs.com,Marketing,Xandr,0
+uuid2,adnxs.com,Marketing,Xandr,0
+usersync,.adnxs.com,Analytics,Xandr,0
+icu,.adnxs.com,Marketing,Xandr,0
+pses,,Analytics,Xandr,0
+token,.adnxs.com,Functional,Xandr,0
+uids,.adnxs.com,Marketing,Xandr,0
+sess,.adnxs.com,Functional,Xandr,0
+XANDR_PANID,.adnxs.com,Marketing,Xandr,0
+cc-,,Functional,Intershop,1
+pgid-org-,,Functional,Intershop,1
+SecureSessionID-,,Functional,Intershop,1
+CMSCsrfCookie,,Security,Kentico,0
+CMSCookieLevel,,Functional,Kentico,0
+CMSLandingPageLoaded,,Analytics,Kentico,0
+CMSPreferredCulture,,Functional,Kentico,0
+CMSUserPage,,Analytics,Kentico,0
+CurrentContact,,Analytics,Kentico,0
+VisitorStatus,,Analytics,Kentico,0
+sc_at,snapchat.com,Marketing,Snapchat,0
+sc-a-nonce,snapchat.com,Marketing,Snapchat,0
+_scid,,Marketing,Snapchat,0
+_schn,,Marketing,Snapchat,0
+X-AB,,Functional,Snapchat,0
+_scid_r,,Marketing,Snapchat,0
+_vwo_uuid_v2,,Functional,Visual Website Optimizer,0
+_vwo_uuid,,Functional,Visual Website Optimizer,0
+_vis_opt_s,,Functional,Visual Website Optimizer,0
+_vis_opt_test_cookie,,Functional,Visual Website Optimizer,0
+_vis_opt_exp_,,Functional,Visual Website Optimizer,1
+_vwo_sn,,Analytics,Visual Website Optimizer,0
+_vwo_ds,,Analytics,Visual Website Optimizer,0
+_vwo_referrer,,Analytics,Visual Website Optimizer,0
+_vwo_ssm,dev.visualwebsiteoptimizer.com,Functional,Visual Website Optimizer,0
+zc_consent,,Functional,ZOHO,0
+ZCAMPAIGN_CSRF_TOKEN,,Security,ZOHO,0
+zc_show,,Marketing,ZOHO,0
+zc_cu_exp,,Functional,ZOHO,0
+zc_loc,,Marketing,ZOHO,0
+uesign,salesiq.zoho.com,Functional,ZOHO,0
+wa_ul,whatsapp.com,Functional,WhatsApp,0
+wa_lang_pref,whatsapp.com,Functional,WhatsApp,0
+pa_rubicon_ts,prfct.co,Marketing,Perfect Audience,0
+pa_google_ts,prfct.co,Marketing,Perfect Audience,0
+pa_twitter_ts,prfct.co,Marketing,Perfect Audience,0
+pa_yahoo_ts,prfct.co,Marketing,Perfect Audience,0
+pa_openx_ts,prfct.co,Marketing,Perfect Audience,0
+pa_uid,prfct.co,Marketing,Perfect Audience,0
+mailmunch_second_pageview,,Marketing,MailMunch,0
+_mailmunch_visitor_id,,Marketing,MailMunch,0
+tPHG-PS,prf.hn,Marketing,Partnerize,0
+digitalAudience,digitalaudience.io,Marketing,Digital Audience,0
+has_js,,Functional,Drupal CMS,0
+_omappvs,,Marketing,Optinmonster,0
+_omappvp,,Marketing,Optinmonster,0
+_lfa,,Marketing,Leadfeeder,0
+SnapABugHistory,,Marketing,SnapEngage,0
+SnapABugUserAlias,,Functional,SnapEngage,0
+SnapABugVisit,,Functional,SnapEngage,0
+SnapABugRef,,Marketing,SnapEngage,0
+audience,spotxchange.com,Marketing,SpotX,0
+yith_wcwl_session_,,Functional,Yithemes.com,0
+A3,.yahoo.com,Marketing,Yahoo,0
+APID,advertising.com,Marketing,Yahoo,0
+APIDTS,.yahoo.com,Marketing,Yahoo,0
+IDSYNC,.yahoo.com,Marketing,Yahoo,0
+A1,,Marketing,Yahoo,0
+A1S,,Marketing,Yahoo,0
+adaptv_unique_user_cookie,.yahoo.com,Marketing,Yahoo,0
+cmp,.yahoo.com,Marketing,Yahoo,0
+adsrcvw1,.yahoo.com,Marketing,Yahoo,0
+migrated2y,.yahoo.com,Marketing,Yahoo,0
+OTH,.yahoo.com,Marketing,Yahoo,0
+optout,.yahoo.com,Marketing,Yahoo,0
+rtbData0,.yahoo.com,Marketing,Yahoo,0
+rxx,.yahoo.com,Marketing,Yahoo,0
+tearsheet,.yahoo.com,Marketing,Yahoo,0
+unique_ad_source_impression,.yahoo.com,Marketing,Yahoo,0
+axids,.yahoo.com,Marketing,Yahoo,0
+GUC,.yahoo.com,Marketing,Yahoo,0
+trc_cookie_storage,.yahoo.com,Marketing,Yahoo,0
+tbla_id,.yahoo.com,Marketing,Yahoo,0
+INGRESSCOOKIE,,Functional,NGINX Ingresss,0
+AlteonP,,Functional,Alteon,0
+cref,quantserve.com,Marketing,Quantcast,0
+mc,quantserve.com,Marketing,Quantcast,0
+d,quantserve.com,Marketing,Quantcast,0
+iutk,issuu.com,Marketing,Issuu,0
+cookielawinfo-checkbox-necessary,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-non-necessary,,Functional,Cookie Law Info,0
+viewed_cookie_policy,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-marketing,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-analytics,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-performance,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-others,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-functional,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-advertisement,,Functional,Cookie Law Info,0
+cli_user_preference,,Functional,Cookie Law Info,0
+cookielawinfo-checkbox-preferences,,Functional,Cookie Law Info,0
+CookieLawInfoConsent,,Functional,Cookie Law Info,0
+__qca,,Marketing,Quantcast,0
+stg_traffic_source_priority,,Analytics,Piwik,0
+stg_last_interaction,,Analytics,Piwik,0
+stg_returning_visitor,,Analytics,Piwik,0
+stg_externalReferrer,,Analytics,Piwik,0
+_pk_id.,,Analytics,Piwik,1
+_pk_ses.,,Analytics,Piwik,1
+ppms_privacy_,,Analytics,Piwik,1
+ppms_privacy_bar_,,Analytics,Piwik,1
+stg_fired__,,Analytics,Piwik,1
+stg_utm_campaign,,Analytics,Piwik,0
+stg_pk_campaign,,Analytics,Piwik,0
+_stg_optout,,Analytics,Piwik,0
+stg_global_opt_out,,Analytics,Piwik,0
+__sqra,,Functional,Sooqr,0
+__sqrb,,Functional,Sooqr,0
+__sqrc,,Functional,Sooqr,0
+nmstat,,Analytics,Siteimprove,0
+sp,,Analytics,Snowplow,0
+_sp_id.,,Analytics,Snowplow,1
+_sp_ses.,,Analytics,Snowplow,1
+AUTH_SESSION_ID,,Functional,Keycloak,0
+KC_RESTART,,Functional,Keycloak,0
+KC_START,,Functional,Keycloak,0
+KEYCLOAK_IDENTITY,,Functional,Keycloak,0
+KEYCLOAK_LOCALE,,Functional,Keycloak,0
+KEYCLOAK_REMEMBER_ME,,Functional,Keycloak,0
+KEYCLOAK_SESSION,,Functional,Keycloak,0
+KC_STATE_CHECKER,,Functional,Keycloak,0
+KC_AUTH_STATE,,Functional,Keycloak,0
+AUTH_SESSION_ID_LEGACY,,Functional,Keycloak,0
+_abck,,Functional,Akamai Botmanager,0
+AKA_A2,,Functional,Akamai,0
+ak_bmsc,,Functional,Akamai,0
+bm_sv,,Functional,Akamai,0
+CRAFT_CSRF_TOKEN,,Security,CraftCMS,0
+CraftSessionId,,Functional,CraftCMS,0
+ci_session,,Functional,CodeIgniter,0
+__lc_cid,livechatinc.com,Functional,Livechat,0
+__lc_cst,livechatinc.com,Functional,Livechat,0
+__lc2_cid,livechatinc.com,Functional,Livechat,0
+__lc2_cst,livechatinc.com,Functional,Livechat,0
+__livechat,livechatinc.com,Functional,Livechat,0
+BVBRANDID,network.bazaarvoice.com,Analytics,Bazaar Voice,0
+BVBRANDSID,network.bazaarvoice.com,Analytics,Bazaar Voice,0
+BVID,network.bazaarvoice.com,Marketing,Bazaar Voice,0
+BVSID,network.bazaarvoice.com,Marketing,Bazaar Voice,0
+_li_id,,Marketing,Leadinfo,1
+_li_ses,,Marketing,Leadinfo,1
+CAKEPHP,,Functional,CakePHP,0
+wp-wpml_current_language,,Functional,WPML,0
+_flowbox,,Functional,Flowbox,0
+acalltracker,,Marketing,Adcalls,0
+acalltrackersession,,Functional,Adcalls,0
+acalltrackerreferrer,,Analytics,Adcalls,0
+excludecalltracking,,Functional,Adcalls,0
+acalltrackernumber,,Marketing,Adcalls,0
+wordpress_google_apps_login,,Functional,WP-Glogin,0
+ckies_functional,,Functional,Jimdo,0
+ckies_necessary,,Functional,Jimdo,0
+ckies_performance,,Functional,Jimdo,0
+ckies_marketing,,Functional,Jimdo,0
+ClickAndChange,,Functional,Jimdo,0
+pll_language,,Functional,Polylang,0
+browserupdateorg,,Functional,Browser-Update.org,0
+TawkConnectionTime,,Functional,Tawk.to Chat,0
+tawkUUID,va.tawk.to,Analytics,Tawk.to Chat,0
+TawkCookie,,Functional,Tawk.to Chat,0
+__tawkuuid,,Functional,Tawk.to Chat,0
+stx_user_id,sharethrough.com,Marketing,Sharethrough,0
+dc,betweendigital.com,Marketing,BetweenDigital,0
+sqzl_abs,,Marketing,Squeezely,0
+sqzl_consent,,Functional,Squeezely,0
+sqzl_session_id,,Marketing,Squeezely,0
+sqzl_vw,,Marketing,Squeezely,0
+sqzllocal,,Marketing,Squeezely,0
+belco-anonymous-id,,Functional,Belco,0
+belco-cookies,,Functional,Belco,0
+ABTasty,,Analytics,ABTasty,0
+ABTastySession,,Analytics,ABTasty,0
+BCSessionID,,Marketing,Blueconic.com,0
+BCTempID,blueconic.net,Marketing,Blueconic.com,0
+BCPermissionLevel,,Functional,Blueconic.com,0
+BCReferrerOverrule,blueconic.net,Marketing,Blueconic.com,0
+BCRefusedObjectives,blueconic.net,Marketing,Blueconic.com,0
+BCRevision,,Marketing,Blueconic.com,0
+BCTracking,,Marketing,Blueconic.com,0
+bc_tstgrp,,Marketing,Blueconic.com,0
+__adal_ca,,Marketing,Adalyser.com,0
+__adal_cw,,Marketing,Adalyser.com,0
+__adal_id,,Marketing,Adalyser.com,0
+__adal_ses,,Marketing,Adalyser.com,0
+Pastease.passive.activated,,Analytics,Mopinion.com,1
+Pastease.passive.chance,,Analytics,Mopinion.com,1
+AFFICHE_W,weborama.fr,Analytics,Weborama,0
+matchadform,w55c.net,Marketing,Roku,0
+wfivefivec,w55c.net,Marketing,Roku,0
+UserID1,adfarm3.adition.com,Marketing,Adition,0
+arcki2,audrte.com,Marketing,Audrte,1
+arcki2_adform,audrte.com,Marketing,Audrte,0
+arcki2_ddp,audrte.com,Marketing,Audrte,0
+_sn_a,,Analytics,Sleeknote,0
+_sn_m,,Marketing,Sleeknote,0
+_sn_n,,Functional,Sleeknote,0
+apbct_antibot,,Functional,CleanTalk,0
+ct_check_js,,Functional,CleanTalk,0
+ct_fkp_timestamp,,Functional,CleanTalk,0
+ct_has_scrolled,,Functional,CleanTalk,0
+ct_pointer_data,,Functional,CleanTalk,0
+ct_ps_timestamp,,Functional,CleanTalk,0
+ct_timezone,,Functional,CleanTalk,0
+apbct_cookies_test,,Functional,CleanTalk,0
+apbct_,,Functional,CleanTalk,1
+ct_,,Functional,CleanTalk,1
+ct_sfw_,,Functional,CleanTalk,0
+spbc_cookies_test,,Functional,CleanTalk,0
+spbc_firewall_pass_key,,Functional,CleanTalk,0
+spbc_is_logged_in,,Functional,CleanTalk,0
+spbc_2fa_passed,,Functional,CleanTalk,0
+spbc_timer,,Functional,CleanTalk,0
+spbc_log_id,,Functional,CleanTalk,0
+__kla_id,,Marketing,Klaviyo,0
+__trf.src,,Marketing,Amazon,0
+_ALGOLIA,,Analytics,Algolia,0
+_csrf,stonly.com,Security,Stonly,0
+_tt_enable_cookie,,Marketing,TikTok,0
+_ttp,,Marketing,TikTok,0
+MONITOR_WEB_ID,mon-va.byteoversea.com,Marketing,TikTok,0
+msToken,tiktok.com,Marketing,TikTok,0
+ttwid,tiktok.com,Marketing,TikTok,0
+ttcsid,tiktok.com,Marketing,TikTok,1
+ahoy_visit,,Analytics,Ahoy,0
+ahoy_visitor,,Analytics,Ahoy,0
+auth0,,Functional,Auth0,0
+auth0_compat,,Functional,Auth0,0
+auth0-mf,,Functional,Auth0,0
+auth0-mf_compat,,Functional,Auth0,0
+a0_users:sess,,Security,Auth0,0
+a0_users:sess.sig,,Security,Auth0,0
+did,,Functional,Auth0,0
+did_compat,,Functional,Auth0,0
+__txn_,,Functional,Auth0,1
+atidvisitor,,Analytics,AT Internet,0
+atuserid,,Analytics,AT Internet,0
+ja_purity_tpl,,Functional,JoomlArt,0
+ja_purity_ii_tpl,,Functional,JoomlArt,0
+BIGipServer,,Functional,f5 BIG-IP,1
+active_template::,,Functional,Ezoic,1
+ezds,,Functional,Ezoic,0
+ezoab_,,Functional,Ezoic,1
+ezoadgid_,,Analytics,Ezoic,1
+ezohw,,Functional,Ezoic,0
+ezopvc_,,Analytics,Ezoic,1
+ezoref_,,Analytics,Ezoic,1
+ezostid_,,Functional,Ezoic,1
+ezosuigeneris,,Marketing,Ezoic,1
+ezosuibasgeneris-1,,Marketing,Ezoic,0
+ezouid_,,Analytics,Ezoic,1
+ezovid_,,Analytics,Ezoic,1
+ezovuuid_,,Analytics,Ezoic,1
+ezovuuidtime_,,Analytics,Ezoic,1
+ezux_et_,,Analytics,Ezoic,1
+ezux_ifep_,,Analytics,Ezoic,1
+ezux_lpl_,,Analytics,Ezoic,1
+ezux_tos_,,Analytics,Ezoic,1
+ezoawesome_,,Functional,Ezoic,1
+easysize_button_loaded_for_user,,Functional,Easysize.me,0
+swym-email,,Functional,Swym,0
+swym-session-id,,Functional,Swym,0
+swym-pid,,Functional,Swym,0
+swym-swymRegid,,Functional,Swym,0
+swym-cu_ct,,Functional,Swym,0
+swym-o_s,,Functional,Swym,0
+swym-instrumentMap,,Functional,Swym,0
+swym-ol_ct,,Functional,Swym,0
+swym-v-ckd,,Functional,Swym,0
+swym-tpermts,,Functional,Swym,0
+swym-u_pref,,Functional,Swym,0
+swym-weml,,Functional,Swym,0
+enforce_policy,paypal.com,Functional,PayPal,0
+x-pp-s,paypal.com,Functional,PayPal,0
+ts,paypal.com,Functional,PayPal,0
+ts_c,paypal.com,Functional,PayPal,0
+tsrce,paypal.com,Functional,PayPal,0
+nsid,paypal.com,Functional,PayPal,0
+X-PP-SILOVER,paypal.com,Functional,PayPal,0
+X-PP-L7,paypal.com,Functional,PayPal,0
+l7_az,paypal.com,Functional,PayPal,0
+SERVERID,,Functional,HAproxy,0
+v_usr,e-volution.ai,Marketing,E-volution.ai,0
+idsync-bsw-uid-s,live.streamtheworld.com,Marketing,StreamTheWorld,0
+done_redirects,onaudience.com,Marketing,OnAudience,1
+vidoomy-uids,vidoomy.com,Marketing,Vidoomy,0
+bbuserid,,Functional,vBulletin,0
+bbpassword,,Functional,vBulletin,0
+bbsessionhash,,Functional,vBulletin,0
+bbcpsessionhash,,Functional,vBulletin,0
+bbnp_notices_displayed,,Functional,vBulletin,0
+bbsitebuilder_active,,Functional,vBulletin,0
+bblastactivity,,Functional,vBulletin,0
+bblastvisit,,Functional,vBulletin,0
+viewer_token,csync.loopme.me,Marketing,csync.loopme.me,0
+wires,,Functional,Processwire,0
+wires_challenge,,Functional,Processwire,0
+ab.storage.userId.,,Functional,Braze,1
+ab.storage.sessionId.,,Analytics,Braze,1
+ab.storage.deviceId.,,Analytics,Braze,1
+ab.optOut,,Functional,Braze,0
+ab._gd,,Functional,Braze,0
+devicePixelRatio,,Functional,WordPress,0
+tk_qs,,Analytics,WordPress,0
+tk_lr,,Marketing,WordPress,0
+tk_or,,Marketing,WordPress,0
+tk_r3d,,Analytics,WordPress,0
+tk_tc,,Analytics,WordPress,0
+wp-settings-,,Functional,WordPress,1
+wporg_logged_in,,Functional,WordPress,0
+wporg_sec,,Functional,WordPress,0
+wporg_locale,,Functional,WordPress,0
+welcome-,,Functional,WordPress,1
+showComments,,Functional,WordPress,0
+trac_form_token,,Functional,WordPress,0
+trac_session,,Functional,WordPress,0
+codexToken,,Functional,WordPress,0
+codexUserId,,Functional,WordPress,0
+codexUserName,,Functional,WordPress,0
+camptix_client_stats,,Analytics,WordPress,0
+wp-saving-post,,Functional,WordPress,0
+comment_author_,,Functional,WordPress,1
+comment_author_url_,,Functional,WordPress,1
+wp-postpass_,,Functional,WordPress,1
+wp-settings-time-,,Functional,WordPress,1
+tix_view_token,,Functional,WordPress,0
+jetpackState,,Functional,WordPress,0
+jpp_math_pass,,Functional,WordPress,0
+stnojs,,Functional,WordPress,0
+wordpress_logged_in_,,Functional,WordPress,1
+cookiefirst-consent,,Functional,Cookie First,0
+_iub_cs-,,Functional,Iubenda,1
+didomi_token,,Functional,Didomi,0
+euconsent-v2,,Functional,Didomi,0
+_global_lucky_opt_out,,Functional,Lucky Orange,0
+_lo_np_,,Functional,Lucky Orange,1
+_lo_bn,,Functional,Lucky Orange,0
+_lo_cid,,Functional,Lucky Orange,0
+_lo_uid,,Analytics,Lucky Orange,0
+_lo_rid,,Analytics,Lucky Orange,0
+_lo_v,,Analytics,Lucky Orange,0
+__lotl,,Analytics,Lucky Orange,0
+__lotr,,Analytics,Lucky Orange,0
+axeptio_authorized_vendors,,Functional,Axeptio,0
+axeptio_cookies,,Functional,Axeptio,0
+axeptio_all_vendors,,Functional,Axeptio,0
+borlabs-cookie,,Functional,Borlabs,0
+osano_consentmanager,,Functional,Osano,0
+osano_consentmanager_expdate,,Functional,Osano,0
+osano_consentmanager_uuid,,Functional,Osano,0
+cookieconsent_status,,Functional,Osano,0
+cookieconsent_page,,Functional,Osano,0
+__cmpconsent,,Functional,Consentmanager.net,1
+__cmpiab,,Functional,Consentmanager.net,1
+__cmpcvc,,Functional,Consentmanager.net,1
+__cmpcpc,,Functional,Consentmanager.net,1
+__cmpccc,,Functional,Consentmanager.net,1
+__cmpwel,,Functional,Consentmanager.net,1
+__cmpiuid,,Functional,Consentmanager.net,0
+__cmpccx,,Functional,Consentmanager.net,0
+__cmpcc,,Functional,Consentmanager.net,0
+__cmpfcc,,Functional,Consentmanager.net,0
+__cmpld,,Functional,Consentmanager.net,0
+__cmpccpausps,,Functional,Consentmanager.net,1
+hu-consent,,Functional,Hu-manity.co,0
+complianz_policy_id,,Functional,Complianz,0
+complianz_consent_status,,Functional,Complianz,0
+cmplz_marketing,,Functional,Complianz,0
+cmplz_statistics,,Functional,Complianz,0
+cmplz_preferences,,Functional,Complianz,0
+cmplz_functional,,Functional,Complianz,0
+cmplz_stats,,Functional,Complianz,0
+cmplz_choice,,Functional,Complianz,0
+cmplz_id,,Functional,Complianz,0
+cmplz_user_data,,Functional,Complianz,0
+cmplz_saved_services,,Functional,Complianz,0
+cmplz_consented_services,,Functional,Complianz,0
+cmplz_policy_id,,Functional,Complianz,0
+cmplz_saved_categories,,Functional,Complianz,0
+cmplz_banner-status,,Functional,Complianz,0
+cookie_notice_accepted,,Functional,Digital Factory,0
+moove_gdpr_popup,,Functional,Moove,0
+__tlbcpv,,Functional,Termly,0
+__tltpl_,,Functional,Termly,1
+__tluid,,Functional,Termly,0
+__stid,sharethis.com,Analytics,ShareThis,0
+__stidv,sharethis.com,Marketing,ShareThis,0
+pubconsent,sharethis.com,Functional,ShareThis,1
+st_optout,sharethis.com,Functional,ShareThis,0
+pxcelBcnLcy,sharethis.com,Analytics,ShareThis,0
+pxcelAcc3PC,,Functional,ShareThis,0
+pxcelPage,sharethis.com,Analytics,ShareThis,1
+usprivacy,,Functional,ShareThis,1
+euconsent,,Functional,ShareThis,1
+fpestid,,Functional,ShareThis,0
+khaos,rubiconproject.com,Marketing,Magnite,0
+audit,rubiconproject.com,Marketing,Magnite,0
+put_,rubiconproject.com,Marketing,Magnite,1
+rpb,rubiconproject.com,Marketing,Magnite,0
+rpx,rubiconproject.com,Marketing,Magnite,0
+c,rubiconproject.com,Marketing,Magnite,0
+khaos_p,.rubiconproject.com,Marketing,Magnite,0
+audit_p,.rubiconproject.com,Marketing,Magnite,0
+apiDomain_,gigya.com,Marketing,SAP,1
+gac_,,Functional,SAP,1
+_gig_APIProxy_enabled,,Functional,SAP,0
+gig_bootstrap_,gigya.com,Marketing,SAP,1
+gig_canary,,Functional,SAP,0
+gig_canary_3,,Functional,SAP,1
+_gig_email,,Marketing,SAP,0
+gig_canary_ver,,Functional,SAP,1
+gig_hasGmid,gigya.com,Marketing,SAP,0
+_gig_llu,gigya.com,Marketing,SAP,0
+_gig_llp,gigya.com,Marketing,SAP,0
+glt_,,Functional,SAP,1
+_gig_lt,,Functional,SAP,0
+gig_last_ver_,,Functional,SAP,1
+gig_loginToken_,gigya.com,Functional,SAP,1
+_gig_shareUI_cb_,,Functional,SAP,1
+_gig_shareUI_lastUID,,Marketing,SAP,0
+_gigRefUid_,,Marketing,SAP,1
+gig_toggles,,Functional,SAP,0
+gig3pc,,Functional,SAP,0
+gig3pctest,,Functional,SAP,0
+glnk,,Functional,SAP,0
+gmid,,Marketing,SAP,0
+gst,,Functional,SAP,0
+GSLM_,,Functional,SAP,1
+hasGmid,gigya.com,Marketing,SAP,0
+SAML_,gigya.com,Functional,SAP,1
+gltexp_,,Functional,SAP,1
+_gig_,,Marketing,SAP,1
+ua_,,Functional,SAP,1
+ucid,,Marketing,SAP,0
+ozone_uid,the-ozone-project.com,Marketing,The Ozone Project,0
+mc_cid,,Analytics,Mailchimp,0
+mc_eid,,Analytics,Mailchimp,0
+mc_landing_site,,Analytics,Mailchimp,0
+_BEAMER_FIRST_VISIT_,hotjar.com,Marketing,Beamer,1
+_BEAMER_USER_ID_,hotjar.com,Marketing,Beamer,1
+_BEAMER_DATE_,hotjar.com,Marketing,Beamer,1
+_BEAMER_LAST_POST_SHOWN_,hotjar.com,Marketing,Beamer,1
+_BEAMER_FILTER_BY_URL_,hotjar.com,Marketing,Beamer,1
+adhese2,ads-[account].adhese.com,Analytics,Adhese,0
+cap,ads-[account].adhese.com,Marketing,Adhese,1
+pubmatic_uid,.adhese.com,Marketing,Adhese,0
+improvedigital_uid,.adhese.com,Marketing,Adhese,0
+rubicon_uid,.adhese.com,Marketing,Adhese,0
+adform_uid,.adhese.com,Marketing,Adhese,0
+appnexus_uid,.adhese.com,Marketing,Adhese,0
+triplelift_uid,.adhese.com,Marketing,Adhese,0
+adheseCustomer,.adhese.com,Marketing,Adhese,0
+pmaAuth-,,Functional,phpMyAdmin,1
+phpMyAdmin,,Functional,phpMyAdmin,0
+pmaUser-,,Functional,phpMyAdmin,1
+pma_lang,,Functional,phpMyAdmin,0
+PLESKSESSID,,Functional,Plesk,0
+plesk-items-per-page,,Functional,Plesk,0
+plek-list-type,,Functional,Plesk,0
+plesk-sort-dir,,Functional,Plesk,0
+plesk-sort-field,,Functional,Plesk,0
+sites-active-list-state-collapsed,,Functional,Plesk,0
+lists-state,,Functional,Plesk,0
+fe_typo_user,,Functional,TYPO3,0
+be_typo_user,,Functional,TYPO3,0
+Typo3InstallTool,,Functional,TYPO3,0
+be_lastLoginProvider,,Functional,TYPO3,0
+KelkooID,kelkoogroup.net,Marketing,Kelkoo,0
+_cio,,Marketing,Customer.io,0
+_cioid,,Marketing,Customer.io,0
+_cioanonid,,Marketing,Customer.io,0
+cioFT,,Marketing,Customer.io,0
+cioLT,,Marketing,Customer.io,0
+_chartbeat,,Analytics,Chartbeat,1
+_SUPERFLY_nosample,,Analytics,Chartbeat,0
+Datadome,,Functional,Datadome,0
+TXCSDMN_,tappx.com,Marketing,Tappx,1
+TXCD,tappx.com,Marketing,Tappx,0
+rai-pltn-pl-,richaudience.com,Marketing,richAudience,1
+avcid-,richaudience.com,Marketing,richAudience,1
+pdid,richaudience.com,Marketing,richAudience,0
+data-,contextual.media.net,Marketing,Media.net,1
+visitor-id,contextual.media.net,Marketing,Media.net,0
+gdpr_status,contextual.media.net,Marketing,Media.net,0
+mnet_session_depth,,Marketing,Media.net,0
+_pbjs_userid_consent_data,,Functional,Prebid,0
+DotomiUser,dotomi.com,Marketing,Dotomi,0
+cjae,dotomi.com,Marketing,Dotomi,0
+DotomiStatus,dotomi.com,Marketing,Dotomi,0
+DotomiSession_,dotomi.com,Marketing,Dotomi,1
+DotomiSync,dotomi.com,Marketing,Dotomi,0
+dtm_token,,Marketing,Dotomi,0
+dtm_token_exp,,Marketing,Dotomi,0
+dtm_tcdata,,Marketing,Dotomi,0
+dtm_tcdata_exp,,Marketing,Dotomi,0
+dtm_token_sc,,Marketing,Dotomi,0
+dtm_user_id,,Marketing,Dotomi,0
+dtm_user_id_sc,,Marketing,Dotomi,0
+dtm_gdpr_delete,dotomi.com,Marketing,Dotomi,0
+dtm_gpc_optout,dotomi.com,Marketing,Dotomi,0
+pluto2,fastclick.net,Marketing,Fastclick,0
+pluto,fastclick.net,Marketing,Fastclick,0
+fastclick,fastclick.net,Functional,Fastclick,0
+svid,mediaplex.com,Marketing,Mediaplex,0
+rts,mediaplex.com,Marketing,Mediaplex,0
+lhc_per,,Functional,Live helper chat,0
+lhc_ldep,,Functional,Live helper chat,0
+lhc_ses,,Functional,Live helper chat,0
+_ym_metrika_enabled,,Analytics,Yandex.Metrica,0
+_ym_isad,,Analytics,Yandex.Metrica,0
+_ym_uid,,Analytics,Yandex.Metrica,0
+_ym_d,,Analytics,Yandex.Metrica,0
+yabs-sid,.yandex.ru,Analytics,Yandex.Metrica,0
+_ym_debug,.yandex.ru,Functional,Yandex.Metrica,0
+_ym_visorc_,.yandex.ru,Analytics,Yandex.Metrica,1
+_ym_hostIndex,.yandex.ru,Functional,Yandex.Metrica,0
+yandexuid,.yandex.ru,Analytics,Yandex.Metrica,0
+yuidss,.yandex.ru,Analytics,Yandex.Metrica,0
+ymex,.yandex.ru,Analytics,Yandex.Metrica,0
+usst,.yandex.ru,Analytics,Yandex.Metrica,0
+is_gdpr_b,.yandex.ru,Analytics,Yandex.Metrica,0
+is_gdpr,.yandex.ru,Analytics,Yandex.Metrica,0
+yabs-vdrf,.yandex.ru,Analytics,Yandex.Metrica,0
+bh,.yandex.ru,Analytics,Yandex.Metrica,0
+_yasc,.yandex.ru,Analytics,Yandex.Metrica,0
+yashr,.yandex.ru,Analytics,Yandex.Metrica,0
+_KMPage,,Functional,Salesforce,1
+_KnowledgePageDispatcher,,Functional,Salesforce,1
+_KnowledgePageFilter,,Functional,Salesforce,1
+_KnowledgePageFilterArticleArticleType,,Functional,Salesforce,1
+_KnowledgePageFilterArticlePublishStatus,,Functional,Salesforce,1
+_KnowledgePageFilterArticleValidationStatus,,Functional,Salesforce,1
+_KnowledgePageFilterLanguage,,Functional,Salesforce,1
+_KnowledgePageFilterMyDraftArticleType,,Functional,Salesforce,1
+_KnowledgePageFilterMyDraftPublishStatus,,Functional,Salesforce,1
+_KnowledgePageFilterMyDraftValidationStatus,,Functional,Salesforce,1
+_KnowledgePageSortFieldArticle,,Functional,Salesforce,1
+_KnowledgePageSortFieldMyDraft,,Functional,Salesforce,1
+_spring_KmMlAnyoneDraftArticlesList,,Functional,Salesforce,1
+_spring_KmMlArchivedArticlesList,,Functional,Salesforce,1
+_spring_KmMlMyDraftArticlesList,,Functional,Salesforce,1
+_spring_KmMlMyDraftTranslationsList,,Functional,Salesforce,1
+_spring_KmMlPublishedArticlesList,,Functional,Salesforce,1
+_spring_KmMlPublishedTranslationsList,,Functional,Salesforce,1
+_sid,,Functional,Salesforce,1
+activeView,,Functional,Salesforce,0
+apex__EmailAddress,,Marketing,Salesforce,0
+auraBrokenDefGraph,,Analytics,Salesforce,0
+autocomplete,,Functional,Salesforce,0
+BAYEAX_BROWSER,,Functional,Salesforce,0
+calViewState,,Analytics,Salesforce,0
+caPanelState,,Functional,Salesforce,0
+renderCtx,salesforce.com,Functional,Salesforce,0
+pctrk,salesforce.com,Analytics,Salesforce,0
+force-stream,salesforce.com,Functional,Salesforce,0
+sfdc-stream,salesforce.com,Functional,Salesforce,0
+BrowserId_sec,salesforce.com,Functional,Salesforce,0
+force-proxy-stream,salesforce.com,Functional,Salesforce,0
+BrowserId,salesforce.com,Functional,Salesforce,0
+QCQQ,salesforce.com,Functional,Salesforce,0
+sid_Client,salesforce.com,Functional,Salesforce,0
+idccsrf,salesforce.com,Security,Salesforce,0
+rsid,salesforce.com,Functional,Salesforce,0
+rsid2,salesforce.com,Functional,Salesforce,0
+RRetURL,salesforce.com,Functional,Salesforce,0
+RRetURL2,salesforce.com,Functional,Salesforce,0
+alohaEpt,salesforce.com,Functional,Salesforce,0
+clientSrc,salesforce.com,Functional,Salesforce,0
+oinfo,salesforce.com,Marketing,Salesforce,0
+expid_,salesforce.com,Marketing,Salesforce,1
+oid,salesforce.com,Functional,Salesforce,0
+CookieConsentPolicy,salesforce.com,Functional,Salesforce,1
+_kuid_,krxd.net (3rd party),Marketing,Salesforce,0
+visitor_id,,Marketing,Salesforce,1
+cookieSettingVerified,,Functional,Salesforce,0
+cordovaVersion,,Functional,Salesforce,0
+cqcid,,Functional,Salesforce,0
+csssid,,Functional,Salesforce,0
+csssid_Client,,Functional,Salesforce,0
+devOverrideCsrfToken,,Security,Salesforce,0
+disco,,Functional,Salesforce,0
+FedAuth,,Functional,Salesforce,0
+gTalkCollapsed,,Functional,Salesforce,0
+guest_uuid_essential_,,Functional,Salesforce,1
+hideDevelopmentTools,,Functional,Salesforce,0
+hideFilesWarningModal,,Functional,Salesforce,0
+hideIdentityDialog,,Functional,Salesforce,0
+Host-ERIC_PROD-,,Security,Salesforce,0
+ideaToggle,,Functional,Salesforce,0
+inst,,Functional,Salesforce,0
+iotcontextsplashdisable,,Functional,Salesforce,0
+lastlist,,Functional,Salesforce,0
+liveagent_invite_rejected_,,Functional,Salesforce,0
+liveagent_sid,,Functional,Salesforce,0
+lloopch_loid,,Functional,Salesforce,0
+login,,Functional,Salesforce,0
+pc-unit,,Functional,Salesforce,0
+PreferredLanguage,,Functional,Salesforce,0
+promptTestMod,,Functional,Salesforce,0
+redirectionWarning,,Functional,Salesforce,0
+schgtclose,,Functional,Salesforce,0
+sfdc_lv2,,Functional,Salesforce,0
+showNewBuilderWarningMessage,,Functional,Salesforce,0
+sidebarPinned,,Personalization,Salesforce,0
+ssostartpage,,Functional,Salesforce,0
+SUCSP,,Functional,Salesforce,0
+SUPRM,,Functional,Salesforce,0
+t,,Functional,Salesforce,0
+useStandbyUrl,,Functional,Salesforce,0
+waveUserPrefFinderLeftNav,,Personalization,Salesforce,0
+waveUserPrefFinderListView,,Personalization,Salesforce,0
+webact,,Functional,Salesforce,0
+WelcomePanel,,Functional,Salesforce,0
+__Host-ERIC_PROD-,,Functional,Salesforce,1
+SetupDomainProbePassed,,Functional,Salesforce,0
+igodigitalstdomain,,Marketing,Salesforce,0
+igodigitalst_,,Marketing,Salesforce,1
+igodigitaltc2,,Marketing,Salesforce,0
+cookieyesID,,Functional,CookieYes,0
+cky-consent,,Functional,CookieYes,0
+cookieyes-necessary,,Functional,CookieYes,0
+cookieyes-functional,,Functional,CookieYes,0
+cookieyes-analytics,,Functional,CookieYes,0
+cookieyes-advertisement,,Functional,CookieYes,0
+cookieyes_privacy_policy_generator_session,,Functional,CookieYes,0
+cookieyes_session,,Functional,CookieYes,0
+cky-action,,Functional,CookieYes,0
+cookieyes-performance,,Functional,CookieYes,0
+cookieyes-consent,,Functional,CookieYes,0
+tv_U,tremorhub.com,Marketing,Magnite,1
+tvid,tremorhub.com,Marketing,Magnite,0
+JSESSIONID,,Functional,J2EE,1
+SSLB,,Functional,SiteSpect,0
+SSPV,,Functional,SiteSpect,0
+SSRT,,Functional,SiteSpect,0
+SSSC,,Functional,SiteSpect,0
+ep201,,Functional,Wufoo,0
+ep202,,Functional,Wufoo,0
+RP_,,Functional,SurveyMonkey,1
+sso_user,,Functional,SurveyMonkey,0
+CX_,,Functional,SurveyMonkey,1
+P_,,Functional,SurveyMonkey,1
+sm_ir,,Functional,SurveyMonkey,0
+_splunk_rum_sid,,Functional,SurveyMonkey,0
+sm_rec,,Functional,SurveyMonkey,0
+RE_,,Functional,SurveyMonkey,1
+REPID_,,Functional,SurveyMonkey,1
+usbls,,Marketing,Usabilla,0
+xf_consent,,Functional,Xenforo,0
+xf_csrf,,Security,Xenforo,0
+xf_dbWriteForced,,Functional,Xenforo,0
+xf_inline_mod_,,Functional,Xenforo,1
+xf_language_id,,Functional,Xenforo,0
+xf_ls,,Functional,Xenforo,0
+xf_notice_dismiss,,Functional,Xenforo,0
+xf_push_notice_dismiss,,Functional,Xenforo,0
+xf_push_subscription_updated,,Functional,Xenforo,0
+xf_session,,Functional,Xenforo,0
+xf_style_id,,Functional,Xenforo,0
+xf_tfa_trust,,Functional,Xenforo,0
+xf_toggle,,Functional,Xenforo,0
+xf_user,,Functional,Xenforo,0
+xf_emoji_usage,,Functional,Xenforo,0
+xf_from_search,,Functional,Xenforo,0
+sailthru_content,,Marketing,Sailthru,0
+sailthru_pageviews,,Marketing,Sailthru,0
+sailthru_visitor,,Marketing,Sailthru,0
+IMRID,imrworldwide.com,Marketing,Nielsen,0
+ud,exelator.com,Marketing,Nielsen,0
+udo,exelator.com,Marketing,Nielsen,0
+EE,exelator.com,Marketing,Nielsen,0
+i00,ioam.de,Marketing,infOnline,0
+CookieScriptConsent,,Functional,Cookie Script,0
+rack.session,,Functional,Rack,0
+pa_user,,Analytics,Piano,0
+xbc,,Functional,Piano,0
+__tbc,,Functional,Piano,0
+__pls,,Functional,Piano,0
+__tac,,Functional,Piano,0
+_pcus,,Marketing,Piano,0
+cX_P,,Analytics,Piano,0
+cX_G,,Marketing,Piano,0
+gckp,,Marketing,Piano,0
+pnespsdk_visitor,,Analytics,Piano,0
+pnespsdk_push_subscription_added,,Analytics,Piano,0
+pnespsdk_pnespid,,Marketing,Piano,0
+pnespsdk_ssn,,Functional,Piano,0
+__utp,,Functional,Piano,0
+__pil,,Functional,Piano,0
+__pid,,Functional,Piano,0
+__idr,,Functional,Piano,0
+__eea,,Functional,Piano,0
+__code,,Functional,Piano,0
+__bid,tinypass.com,Functional,Piano,0
+__ut,,Functional,Piano,0
+__pvi,,Analytics,Piano,0
+__pat,,Analytics,Piano,0
+__pnahc,,Functional,Piano,0
+LANG,tinypass.com,Functional,Piano,0
+LANG_CHANGED,tinypass.com,Functional,Piano,0
+_pctx,,Functional,Piano,0
+_pprv,,Functional,Piano,0
+_pcid,,Functional,Piano,0
+DotMetrics.SessionCookieTemp,.dotmetrics.net,Analytics,Dotmetrics,0
+DotMetrics.UniqueUserIdentityCookie,.dotmetrics.net,Analytics,Dotmetrics,0
+DotMetrics.DeviceKey,.dotmetrics.net,Analytics,Dotmetrics,0
+DotMetrics.SessionCookieTempTimed,.dotmetrics.net,Analytics,Dotmetrics,0
+ki_s,qualaroo.com,Marketing,Qualaroo,0
+ki_u,qualaroo.com,Marketing,Qualaroo,0
+barometric[cuid],trkn.us,Marketing,Claritas,0
+barometric[idfa],trkn.us,Marketing,Claritas,0
+__gfp_64b,.gemius.pl,Analytics,Gemius,0
+__gfp_s_64b,.gemius.pl,Analytics,Gemius,0
+Gdyn,.gemius.pl,Analytics,Gemius,0
+opt_out,postrelease.com,Marketing,Nativo,0
+visitor,postrelease.com,Marketing,Nativo,0
+tp,.ml314.com,Marketing,Bombora,0
+lkqdid,lkqd.net,Marketing,Verve,0
+lkqdidts,lkqd.net,Marketing,Verve,0
+33x_ps,.33across.com,Marketing,33Across,0
+COOKIELAW_ADS,,Functional,Lightspeed,0
+COOKIELAW_SOCIAL,,Functional,Lightspeed,0
+COOKIELAW_STATS,,Functional,Lightspeed,0
+COOKIELAW,,Functional,Lightspeed,0
+dm_timezone_offset,,Analytics,Duda,0
+dm_last_visit,,Analytics,Duda,0
+dm_total_visits,,Analytics,Duda,0
+dm_last_page_view,,Analytics,Duda,0
+dm_this_page_view,,Analytics,Duda,0
+CookieControl,,Functional,Civic,0
+HACIVICLB,,Functional,Civic,0
+HACIVIC,,Functional,Civic,0
+HAAPPLB,,Functional,Civic,0
+intercom-id-,,Analytics,Intercom,1
+intercom-session-,,Analytics,Intercom,1
+intercom-device-id-,,Analytics,Intercom,1
+mp_,,Analytics,Mixpanel,1
+pvc_visits[0],,Analytics,Postviewscounter,0
+client_bslstaid,,Analytics,Beslist.nl,0
+client_bslstmatch,,Analytics,Beslist.nl,0
+client_bslstsid,,Analytics,Beslist.nl,0
+client_bslstuid,,Analytics,Beslist.nl,0
+CGISESSID,,Functional,Perl,0
+vglnk.Agent.p,disqus.com,Marketing,Disqus,0
+vglnk.PartnerRfsh.p,disqus.com,Marketing,Disqus,0
+deuxesse_uxid,twiago.com,Marketing,Twiago,0
+pid_short,xplosion.de,Marketing,Emetric,0
+pid_signature,xplosion.de,Marketing,Emetric,0
+pid,xplosion.de,Marketing,Emetric,0
+ep,xplosion.de,Marketing,Emetric,0
+_pangle,analytics.pangle-ads.com,Marketing,Pangle,0
+u,t.tailtarget.com,Marketing,Totvs,0
+_ssc,t.tailtarget.com,Marketing,Totvs,0
+NSC_,,Functional,Citrix,1
+bitoIsSecure,bidr.io,Marketing,Beeswax,0
+bito,bidr.io,Marketing,Beeswax,0
+WMF-Last-Access,.wikimedia.org,Analytics,Wikimedia,0
+loginnotify_prevlogins,.wikimedia.org,Functional,Wikimedia,0
+stopMobileRedirect,.wikimedia.org,Functional,Wikimedia,0
+centralnotice_bucket,.wikimedia.org,Analytics,Wikimedia,0
+GeoIP,.wikimedia.org,Analytics,Wikimedia,0
+NetWorkProbeLimit,.wikimedia.org,Analytics,Wikimedia,0
+auid,.acuityplatform.com,Marketing,Acuity,0
+aum,.acuityplatform.com,Marketing,Acuity,0
+ablyft_exps,,Analytics,ABlyft,0
+ablyft_queue,,Analytics,ABlyft,0
+ablyft_uvs,,Analytics,ABlyft,0
+ablyft_tracking_consent,,Analytics,ABlyft,0
+_d2id,.mercadolibre.com,Marketing,MercadoLibre,0
+edsid,.mercadolibre.com,Marketing,MercadoLibre,0
+ftid,.mercadolibre.com,Marketing,MercadoLibre,0
+aniC,.aniview.com,Marketing,Aniview,0
+version,track1.aniview.com,Marketing,Aniview,0
+mics_vid,.mediarithmics.com,Marketing,Mediarithmics,0
+mics_uaid,.mediarithmics.com,Marketing,Mediarithmics,0
+mics_lts,.mediarithmics.com,Marketing,Mediarithmics,0
+chk,.mediarithmics.com,Marketing,Mediarithmics,0
+n360_thirtythreeacross,.nexx360.io,Marketing,Nexx360,0
+n360-thirtythreeacross,.nexx360.io,Marketing,Nexx360,0
+n360_appnexus,.nexx360.io,Marketing,Nexx360,0
+n360-appnexus,.nexx360.io,Marketing,Nexx360,0
+n360_bliink,.nexx360.io,Marketing,Nexx360,0
+n360-bliink,.nexx360.io,Marketing,Nexx360,0
+n360_amx,.nexx360.io,Marketing,Nexx360,0
+n360-amx,.nexx360.io,Marketing,Nexx360,0
+n360_adform,.nexx360.io,Marketing,Nexx360,0
+n360-adform,.nexx360.io,Marketing,Nexx360,0
+n360_adnuntius,.nexx360.io,Marketing,Nexx360,0
+n360-adnuntius,.nexx360.io,Marketing,Nexx360,0
+n360_adot,.nexx360.io,Marketing,Nexx360,0
+n360-adot,.nexx360.io,Marketing,Nexx360,0
+n360_adyoulike,.nexx360.io,Marketing,Nexx360,0
+n360-adyoulike,.nexx360.io,Marketing,Nexx360,0
+n360_connectad,.nexx360.io,Marketing,Nexx360,0
+n360-connectad,.nexx360.io,Marketing,Nexx360,0
+n360_conversant,.nexx360.io,Marketing,Nexx360,0
+n360-conversant,.nexx360.io,Marketing,Nexx360,0
+n360_cwire,.nexx360.io,Marketing,Nexx360,0
+n360-cwire,.nexx360.io,Marketing,Nexx360,0
+n360_firstid,.nexx360.io,Marketing,Nexx360,0
+n360-firstid,.nexx360.io,Marketing,Nexx360,0
+n360_freewheel,.nexx360.io,Marketing,Nexx360,0
+n360-freewheel,.nexx360.io,Marketing,Nexx360,0
+n360_fueldigitalmedia,.nexx360.io,Marketing,Nexx360,0
+n360-fueldigitalmedia,.nexx360.io,Marketing,Nexx360,0
+n360_fueldigitalix,.nexx360.io,Marketing,Nexx360,0
+n360-fueldigitalix,.nexx360.io,Marketing,Nexx360,0
+n360_fueldigital,.nexx360.io,Marketing,Nexx360,0
+n360-fueldigital,.nexx360.io,Marketing,Nexx360,0
+n360_gingerad,.nexx360.io,Marketing,Nexx360,0
+n360-gingerad,.nexx360.io,Marketing,Nexx360,0
+n360_goodad,.nexx360.io,Marketing,Nexx360,0
+n360-goodad,.nexx360.io,Marketing,Nexx360,0
+n360_gravity,.nexx360.io,Marketing,Nexx360,0
+n360-gravity,.nexx360.io,Marketing,Nexx360,0
+n360_groupm,.nexx360.io,Marketing,Nexx360,0
+n360-groupm,.nexx360.io,Marketing,Nexx360,0
+n360_improve,.nexx360.io,Marketing,Nexx360,0
+n360-improve,.nexx360.io,Marketing,Nexx360,0
+n360_ix,.nexx360.io,Marketing,Nexx360,0
+n360-ix,.nexx360.io,Marketing,Nexx360,0
+n360_medianet,.nexx360.io,Marketing,Nexx360,0
+n360-medianet,.nexx360.io,Marketing,Nexx360,0
+n360_moneytag,.nexx360.io,Marketing,Nexx360,0
+n360-moneytag,.nexx360.io,Marketing,Nexx360,0
+n360_nextmillennium,.nexx360.io,Marketing,Nexx360,0
+n360-nextmillennium,.nexx360.io,Marketing,Nexx360,0
+n360_onetag,.nexx360.io,Marketing,Nexx360,0
+n360-onetag,.nexx360.io,Marketing,Nexx360,0
+n360_openx,.nexx360.io,Marketing,Nexx360,0
+n360-openx,.nexx360.io,Marketing,Nexx360,0
+n360_outbrain,.nexx360.io,Marketing,Nexx360,0
+n360-outbrain,.nexx360.io,Marketing,Nexx360,0
+n360_plista,.nexx360.io,Marketing,Nexx360,0
+n360-plista,.nexx360.io,Marketing,Nexx360,0
+n360_pubmatic,.nexx360.io,Marketing,Nexx360,0
+n360-pubmatic,.nexx360.io,Marketing,Nexx360,0
+n360_pulsepoint,.nexx360.io,Marketing,Nexx360,0
+n360-pulsepoint,.nexx360.io,Marketing,Nexx360,0
+n360_quantum,.nexx360.io,Marketing,Nexx360,0
+n360-quantum,.nexx360.io,Marketing,Nexx360,0
+n360_richaudience,.nexx360.io,Marketing,Nexx360,0
+n360-richaudience,.nexx360.io,Marketing,Nexx360,0
+n360_rtbhouse,.nexx360.io,Marketing,Nexx360,0
+n360-rtbhouse,.nexx360.io,Marketing,Nexx360,0
+n360_rubicon,.nexx360.io,Marketing,Nexx360,0
+n360-rubicon,.nexx360.io,Marketing,Nexx360,0
+n360_sharethrough,.nexx360.io,Marketing,Nexx360,0
+n360-sharethrough,.nexx360.io,Marketing,Nexx360,0
+n360_smaato,.nexx360.io,Marketing,Nexx360,0
+n360-smaato,.nexx360.io,Marketing,Nexx360,0
+n360_smartadserver,.nexx360.io,Marketing,Nexx360,0
+n360-smartadserver,.nexx360.io,Marketing,Nexx360,0
+n360_smartyads,.nexx360.io,Marketing,Nexx360,0
+n360-smartyads,.nexx360.io,Marketing,Nexx360,0
+n360_smilewanted,.nexx360.io,Marketing,Nexx360,0
+n360-smilewanted,.nexx360.io,Marketing,Nexx360,0
+n360_staila,.nexx360.io,Marketing,Nexx360,0
+n360-staila,.nexx360.io,Marketing,Nexx360,0
+n360_tappx,.nexx360.io,Marketing,Nexx360,0
+n360-tappx,.nexx360.io,Marketing,Nexx360,0
+n360_mediagrid,.nexx360.io,Marketing,Nexx360,0
+n360-mediagrid,.nexx360.io,Marketing,Nexx360,0
+n360_ttd,.nexx360.io,Marketing,Nexx360,0
+n360-ttd,.nexx360.io,Marketing,Nexx360,0
+n360_traffective,.nexx360.io,Marketing,Nexx360,0
+n360-traffective,.nexx360.io,Marketing,Nexx360,0
+n360_triplelift,.nexx360.io,Marketing,Nexx360,0
+n360-triplelift,.nexx360.io,Marketing,Nexx360,0
+n360_yahoo,.nexx360.io,Marketing,Nexx360,0
+n360-yahoo,.nexx360.io,Marketing,Nexx360,0
+n360_vidoomy,.nexx360.io,Marketing,Nexx360,0
+n360-vidoomy,.nexx360.io,Marketing,Nexx360,0
+n360_yieldlab,.nexx360.io,Marketing,Nexx360,0
+n360-yieldlab,.nexx360.io,Marketing,Nexx360,0
+mv_tokens,exchange.mediavine.com,Marketing,MediaVine,0
+mv_tokens_invalidate-verizon-pushes,exchange.mediavine.com,Marketing,MediaVine,0
+am_tokens,exchange.mediavine.com,Marketing,MediaVine,0
+am_tokens_invalidate-verizon-pushes,exchange.mediavine.com,Marketing,MediaVine,0
+_bit,.bit.ly,Analytics,Bit.ly,0
+ptrcriteo,ads.yieldmo.com,Marketing,Yieldmo,0
+ptrrhs,ads.yieldmo.com,Marketing,Yieldmo,0
+yieldmo_id,.yieldmo.com,Analytics,Yieldmo,0
+ptrrc,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptran,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrt,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrpp,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrpub,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrc,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrb,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptropenx,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptrbsw,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptreps,.ads.yieldmo.com,Marketing,Yieldmo,0
+ptradtrt,.ads.yieldmo.com,Marketing,Yieldmo,0
+ssid,.springserve.com,Marketing,Springserve,0
+sst,.springserve.com,Marketing,Springserve,0
+dgzsdl08v4,.bounceexchange.com,Marketing,Bouncex,0
+bounceClientVisit,.bounceexchange.com,Marketing,Bouncex,0
+_vfa,,Analytics,Viafoura,0
+_vfb,,Analytics,Viafoura,0
+_vfz,,Analytics,Viafoura,0
+_vf_rd_test,,Functional,Viafoura,1
+VfSess,.viafoura.co,Functional,Viafoura,0
+VfRefresh,.viafoura.co,Functional,Viafoura,0
+VfAccess,.viafoura.co,Functional,Viafoura,1
+vfThirdpartyCookiesEnabled,.viafoura.co,Functional,Viafoura,0
+ttbprf,.t.tailtarget.com,Marketing,Tailtarget,0
+ttc,.t.tailtarget.com,Marketing,Tailtarget,0
+ttnprf,.t.tailtarget.com,Marketing,Tailtarget,0
+n,.t.tailtarget.com,Marketing,Tailtarget,0
+u,.t.tailtarget.com,Marketing,Tailtarget,0
+trk,.t.tailtarget.com,Marketing,Tailtarget,0
+ttca,.t.tailtarget.com,Marketing,Tailtarget,0
+tp,.t.tailtarget.com,Marketing,Tailtarget,1
+dc,.t.tailtarget.com,Functional,Tailtarget,0
+ttgcm,.t.tailtarget.com,Marketing,Tailtarget,0
+_ssc,.t.tailtarget.com,Marketing,Tailtarget,0
+_ut,events.newsroom.bi,Analytics,Marfeel,1
+_s,events.newsroom.bi,Analytics,Marfeel,1
+_lv,events.newsroom.bi,Analytics,Marfeel,1
+_nrbi,events.newsroom.bi,Analytics,Marfeel,0
+compass_sid,events.newsroom.bi,Analytics,Marfeel,0
+compass_uid,events.newsroom.bi,Analytics,Marfeel,0
+___m_rec,events.newsroom.bi,Analytics,Marfeel,0
+GRV_BHV_UID,.groovinads.com,Marketing,Groovinads,1
+GRV_BHV_IDCC,.groovinads.com,Marketing,Groovinads,1
+GRV_BHV_SKU,.groovinads.com,Marketing,Groovinads,1
+GRV_BHV_IDCAT,.groovinads.com,Marketing,Groovinads,1
+GRV_BHV_DATE,.groovinads.com,Marketing,Groovinads,1
+GRV_IDU,.groovinads.com,Marketing,Groovinads,0
+NPA,.groovinads.com,Marketing,Groovinads,1
+GRV_BHV_BRND_,.groovinads.com,Marketing,Groovinads,1
+GRV_google,.groovinads.com,Marketing,Groovinads,0
+duid_update_time,.bidence.net,Marketing,Bidence,0
+_ssp_update_time,.bidence.net,Marketing,Bidence,1
+_dsp_uid,.bidence.net,Marketing,Bidence,1
+connect.sid,.zendesk.com,Functional,Zendesk,0
+_zendesk_cookie,,Functional,Zendesk,0
+zte2095,.zendesk.com,Functional,Zendesk,0
+__zlcprivacy,.zendesk.com,Functional,Zendesk,0
+__zlcmid,.zendesk.com,Functional,Zendesk,0
+_answer_bot_service_session,.zendesk.com,Functional,Zendesk,0
+ZD-zE_oauth,.zendesk.com,Functional,Zendesk,0
+_zendesk_session,,Functional,Zendesk,0
+zendesk_thirdparty_test,,Functional,Zendesk,0
+_zendesk_shared_session,,Functional,Zendesk,0
+_zendesk_authenticated,,Functional,Zendesk,0
+_help_center_session,,Functional,Zendesk,0
+help_center_data,,Functional,Zendesk,0
+_zdshared_user_session_analytics,,Analytics,Zendesk,0
+_zendesk_nps_session,,Functional,Zendesk,0
+ZD-settings,,Functional,Zendesk,0
+ZD-suid,,Analytics,Zendesk,0
+ZD-buid,,Analytics,Zendesk,0
+ZD-store,,Functional,Zendesk,0
+ZD-widgetOpen,,Functional,Zendesk,0
+ZD-launcherLabelRemoved,,Functional,Zendesk,0
+_zdsession_talk_embeddables_service,,Functional,Zendesk,0
+RT,www.tamgrt.com,Functional,Tripadvisor,0
+TADCID,www.tamgrt.com,Marketing,Tripadvisor,0
+ServerPool,www.tamgrt.com,Marketing,Tripadvisor,0
+TATravelInfo,,Analytics,Tripadvisor,0
+TAUnique,,Analytics,Tripadvisor,0
+TAReturnTo,,Analytics,Tripadvisor,0
+dt,udmserve.net,Marketing,Underdog Media,0
+rtbh,udmserve.net,Marketing,Underdog Media,0
+udmts,udmserve.net,Marketing,Underdog Media,0
+api_token,.twitch.tv,Functional,Twitch,0
+unique_id,.twitch.tv,Functional,Twitch,0
+unique_id_durable,.twitch.tv,Functional,Twitch,0
+session_unique_id,.twitch.tv,Functional,Twitch,0
+server_session_id,.twitch.tv,Functional,Twitch,0
+twitch.lohp.countryCode,.twitch.tv,Functional,Twitch,0
+auth-token,.twitch.tv,Functional,Twitch,0
+enable-compact-scene-listing,.twitch.tv,Functional,Twitch,0
+videoChat.notice_dismissed,.twitch.tv,Functional,Twitch,0
+chat_rules_shown,.twitch.tv,Functional,Twitch,0
+algoliasearch-client-js,.twitch.tv,Functional,Twitch,0
+device_id,embed.twitch.tv,Functional,Twitch,0
+referrer_url,.twitch.tv,Functional,Twitch,0
+sentry_device_id,player.twitch.tv,Functional,Twitch,0
+session_storage_last_visited_twitch_url,player.twitch.tv,Functional,Twitch,0
+local_storage_app_session_id,player.twitch.tv,Functional,Twitch,0
+_ceir,,Analytics,Crazy Egg,0
+_CEFT,,Analytics,Crazy Egg,0
+_cer.v,,Analytics,Crazy Egg,0
+_ce.s,,Analytics,Crazy Egg,0
+_ce.cch,,Analytics,Crazy Egg,0
+_ce.gtld,,Analytics,Crazy Egg,0
+ce_need_secure_cookie,,Analytics,Crazy Egg,0
+ce_successful_csp_check,,Analytics,Crazy Egg,0
+cebs,crazyegg.com,Analytics,Crazy Egg,0
+cebsp_,crazyegg.com,Analytics,Crazy Egg,0
+_ce.clock_event,,Analytics,Crazy Egg,0
+_ce.clock_data,,Analytics,Crazy Egg,0
+_ce.irv,,Analytics,Crazy Egg,0
+ceft_variant_override,,Analytics,Crazy Egg,0
+_crazyegg,,Marketing,Crazy Egg,0
+ce_login,crazyegg.com,Functional,Crazy Egg,0
+ce_signup_flow,crazyegg.com,Functional,Crazy Egg,0
+ce_signup_partner,crazyegg.com,Marketing,Crazy Egg,0
+ceac,crazyegg.com,Functional,Crazy Egg,0
+cean,crazyegg.com,Functional,Crazy Egg,0
+cehc,crazyegg.com,Functional,Crazy Egg,0
+celi,crazyegg.com,Functional,Crazy Egg,0
+cean_assoc,crazyegg.com,Functional,Crazy Egg,0
+first_snapshot_url,crazyegg.com,Functional,Crazy Egg,0
+sharing_,crazyegg.com,Functional,Crazy Egg,1
+ce_sid,crazyegg.com,Functional,Crazy Egg,0
+cecu,crazyegg.com,Functional,Crazy Egg,0
+TiPMix,api.lightboxcdn.com,Functional,Lightbox CDN,0
+x-ms-routing-name,api.lightboxcdn.com,Functional,Lightbox CDN,0
+_distillery,,Functional,Wistia,0
+muxData,,Functional,Wistia,0
+wistia-http2-push-disabled,,Functional,Wistia,0
+_simplex,,Functional,Wistia,0
+wistia,,Functional,Wistia,0
+wistia-video-progress-,,Functional,Wistia,1
+__uin_rh,go.sonobi.com,Marketing,Sonobi,0
+__uir_rh,go.sonobi.com,Marketing,Sonobi,0
+__uis,go.sonobi.com,Marketing,Sonobi,0
+HAPLB3A,go.sonobi.com,Marketing,Sonobi,0
+SSPR_*,.adkernel.com,Marketing,Adkernel,0
+SSPZ,.adkernel.com,Marketing,Adkernel,0
+DSP2F_*,.adkernel.com,Marketing,Adkernel,0
+ADKUID,.adkernel.com,Marketing,Adkernel,0
+SCM,.smaato.net,Marketing,Smaato,0
+SCMaps,.smaato.net,Marketing,Smaato,0
+SCMsovrn,.smaato.net,Marketing,Smaato,0
+SCMinf,.smaato.net,Marketing,Smaato,0
+SCMo,.smaato.net,Marketing,Smaato,0
+SCMg,.smaato.net,Marketing,Smaato,0
+SCM*,.smaato.net,Marketing,Smaato,0
+UID_EXT_*,.undertone.com,Marketing,Undertone,0
+UTID,.undertone.com,Marketing,Undertone,0
+UTID_ENC,.undertone.com,Marketing,Undertone,0
+DYID,dynamicyield.com,Functional,Dynamic Yield,0
+_dyid,,Functional,Dynamic Yield,0
+_dyid_server,,Functional,Dynamic Yield,0
+DYSES,dynamicyield.com,Functional,Dynamic Yield,0
+_dyjsession,,Functional,Dynamic Yield,0
+_dy_csc_ses,,Analytics,Dynamic Yield,0
+_dycmc,,Analytics,Dynamic Yield,0
+_dycnst,,Functional,Dynamic Yield,0
+_dy_lu_ses,,Functional,Dynamic Yield,0
+_dy_df_geo,,Analytics,Dynamic Yield,0
+_dy_geo,,Analytics,Dynamic Yield,0
+_dycst,,Analytics,Dynamic Yield,0
+_dy_ses_load_seq,,Functional,Dynamic Yield,0
+_dy_soct,,Functional,Dynamic Yield,0
+_dy_toffset,,Functional,Dynamic Yield,0
+dy_fs_page,,Functional,Dynamic Yield,0
+_dy_cs_storage_items,,Marketing,Dynamic Yield,0
+_dy_cs_cookie_items,,Marketing,Dynamic Yield,0
+ckid,.getblue.io,Marketing,Blue,0
+hash,.getblue.io,Marketing,Blue,0
+BLUEID,.getblue.io,Marketing,Blue,0
+ig_did,instagram.com,Marketing,Instagram,0
+ig_cb,instagram.com,Marketing,Instagram,0
+ds_user_id,instagram.com,Marketing,Instagram,0
+mid,instagram.com,Functional,Instagram,0
+fbm_,instagram.com,Marketing,Instagram,1
+shbid,instagram.com,Marketing,Instagram,0
+shbts,instagram.com,Marketing,Instagram,0
+sessionid,instagram.com,Marketing,Instagram,0
+_parsely_visitor,,Functional,Parse.ly,0
+_parsely_tpa_blocked,,Functional,Parse.ly,0
+_parsely_slot_click,,Functional,Parse.ly,0
+_parsely_session,,Functional,Parse.ly,0
+test,,Functional,Parse.ly,0
+__editor_layout,codepen.io,Functional,Codepen,0
+codepen_session,codepen.io,Functional,Codepen,0
+codepen_signup_referrer,codepen.io,Functional,Codepen,0
+codepen_signup_referrer_date,codepen.io,Functional,Codepen,0
+rl_user_id,,Analytics,Rudderstack,0
+rl_trait,,Analytics,Rudderstack,0
+rl_anonymous_id,,Analytics,Rudderstack,0
+rl_group_id,,Analytics,Rudderstack,0
+rl_group_trait,,Analytics,Rudderstack,0
+rl_page_init_referrer,,Analytics,Rudderstack,0
+rl_page_init_referring_domain,,Analytics,Rudderstack,0
+test_rudder_cookie,,Analytics,Rudderstack,0
+rl_session,,Analytics,Rudderstack,0
+rl_auth_token,,Analytics,Rudderstack,0
+_biz_uid,,Analytics,Marketo,0
+_biz_nA,,Analytics,Marketo,0
+_biz_flagsA,,Analytics,Marketo,0
+_biz_pendingA,,Analytics,Marketo,0
+_biz_ABTestA,,Analytics,Marketo,0
+_biz_su,,Analytics,Marketo,0
+_biz_EventA,,Analytics,Marketo,0
+c,creativecdn.com,Marketing,CreativeCDN,0
+g,creativecdn.com,Marketing,CreativeCDN,0
+ts,creativecdn.com,Functional,CreativeCDN,0
+u,creativecdn.com,Marketing,CreativeCDN,0
+obsessionid-,,Marketing,Outbrain,1
+opout,,Marketing,Outbrain,0
+recs-,,Marketing,Outbrain,1
+europe,,Marketing,Outbrain,0
+ref-,,Marketing,Outbrain,0
+auid,,Marketing,Outbrain,0
+outbrain_dicbo_id,,Marketing,Outbrain,0
+unifiedPixel,,Marketing,Outbrain,0
+dicbo_id,,Marketing,Outbrain,0
+_cs_c,,Analytics,ContentSquare,0
+_cs_cvars,,Analytics,ContentSquare,0
+_cs_id,,Analytics,ContentSquare,0
+_cs_s,,Analytics,ContentSquare,0
+__CT_Data,,Analytics,ContentSquare,0
+_CT_RS_,,Analytics,ContentSquare,0
+WRUID,,Analytics,ContentSquare,0
+_cs_ex,,Analytics,ContentSquare,0
+_cs_optout,,Analytics,ContentSquare,0
+_cs_rl,,Analytics,ContentSquare,0
+_cs_root-domain,,Analytics,ContentSquare,0
+WRIgnore,,Analytics,ContentSquare,0
+WRBlock,clicktale.net,Analytics,ContentSquare,0
+_cs_same_site,,Analytics,ContentSquare,0
+_cs_debug,,Analytics,ContentSquare,0
+_hjasCachedUserAttributes,,Analytics,ContentSquare,0
+_hjUserAttrbutesHash,,Analytics,ContentSquare,0
+_hjUserAttributes,,Analytics,ContentSquare,0
+_hp2_hld,,Analytics,ContentSquare,0
+_hp5_event_props.,,Analytics,ContentSquare,1
+_hp5_meta.,,Analytics,ContentSquare,1
+_cs_mk_aa,,Analytics,ContentSquare,0
+_cs_mk_ga,,Analytics,ContentSquare,0
+_cs_tld,,Analytics,ContentSquare,1
+app_manifest_token,,Functional,GitHub,0
+color_mode,github.com,Functional,GitHub,0
+_device_id,github.com,Functional,GitHub,0
+dotcom_user,github.com,Functional,GitHub,0
+enterprise_trial_redirect_to,,Functional,GitHub,0
+fileTreeExpanded,,Functional,GitHub,0
+ghcc,github.com,Functional,GitHub,0
+_gh_ent,github.com,Functional,GitHub,0
+_gh_sess,github.com,Functional,GitHub,0
+gist_oauth_csrf,github.com,Security,GitHub,0
+gist_user_session,,Functional,GitHub,0
+has_recent_activity,,Functional,GitHub,0
+__Host-gist_user_session_same_site,,Functional,GitHub,0
+__Host-user_session_same_site,,Functional,GitHub,0
+marketplace_repository_ids,,Functional,GitHub,0
+marketplace_suggested_target_id,,Functional,GitHub,0
+_octo,github.com,Analytics,GitHub,0
+org_transform_notice,github.com,Functional,GitHub,0
+private_mode_user_session,github.com,Functional,GitHub,0
+saml_csrf_token,github.com,Security,GitHub,0
+saml_return_to,github.com,Functional,GitHub,0
+saml_return_to_legacy,github.com,Functional,GitHub,0
+show_cookie_banner,github.com,Functional,GitHub,0
+tz,github.com,Functional,GitHub,0
+user_session,github.com,Functional,GitHub,0
+AMP_,cdn.amplitude.com,Analytics,Amplitude,1
+AMP_MKTG_,cdn.amplitude.com,Analytics,Amplitude,1
+AMP_TEST,cdn.amplitude.com,Analytics,Amplitude,0
+AMP_TLDTEST,cdn.amplitude.com,Analytics,Amplitude,0
+amplitude_cookie_test,.amplitude.com,Analytics,Amplitude,0
+amplitude_id_,.amplitude.com,Analytics,Amplitude,1
+amplitude_test,.amplitude.com.,Analytics,Amplitude,1
+_conv_r,,Functional,Convert Insights,0
+_conv_s,,Functional,Convert Insights,0
+_conv_v,,Functional,Convert Insights,0
+QSI_HistorySession,,Analytics,Qualtrics,0
+QSI_OptInIDsAndWindowNames,,Analytics,Qualtrics,0
+QSI_OptInIDsAndTargetOrigins,,Analytics,Qualtrics,0
+SiteReferrer,,Analytics,Qualtrics,0
+PageReferrer,,Analytics,Qualtrics,0
+SearchTerm,,Analytics,Qualtrics,0
+FocusTime,,Analytics,Qualtrics,0
+BlurTime,,Analytics,Qualtrics,0
+ActionSetHistory,,Analytics,Qualtrics,0
+SISessID,,Analytics,Qualtrics,0
+CPSessID,,Analytics,Qualtrics,0
+QSI_ReplaySession_Info_,,Analytics,Qualtrics,1
+QSI_TestSessions_,,Analytics,Qualtrics,1
+QSI_SI_,,Analytics,Qualtrics,1
+QSI_S_,,Functional,Qualtrics,1
+QST,,Functional,Qualtrics,0
+QSIPopUnder_PopUnderTarget_SI_,,Functional,Qualtrics,1
+QSI_CT,,Functional,Qualtrics,0
+QSI_DATA,,Functional,Qualtrics,0
+QSI_ReplaySession_Throttled_,,Functional,Qualtrics,1
+QSI_ReplaySession_SampledOut_,,Functional,Qualtrics,1
+Site History,,Functional,Qualtrics,0
+c-referrer,,Analytics,CognitoForms,0
+c-signup,,Analytics,CognitoForms,0
+c-plan,,Analytics,CognitoForms,0
+cognito.services.a,,Analytics,CognitoForms,0
+cognito.organization,,Analytics,CognitoForms,0
+rdtrk,.rdstation.com.br,Marketing,RD Station,0
+_rdtrk,.rdstation.com.br,Marketing,RD Station,0
+_rd_experiment_version,.rdstation.com.br,Marketing,RD Station,0
+_form_fields,,Functional,RD Station,0
+_rdlps_pp,.rdstation.com.br,Marketing,RD Station,0
+_rd_wa_first_session,,Marketing,RD Station,1
+_sp_wa_first_session,,Marketing,RD Station,1
+_rd_wa_id,,Marketing,RD Station,1
+_sp_wa_id,,Marketing,RD Station,1
+_rd_wa_ses_id,,Marketing,RD Station,1
+_sp_wa_ses_id,,Marketing,RD Station,1
+_sp_root_domain_test_,,Marketing,RD Station,0
+NEXT_LOCALE,,Functional,Next,0
+dtCookie,,Analytics,Dynatrace,1
+dtLatC,,Analytics,Dynatrace,1
+dtPC,,Analytics,Dynatrace,1
+dtSa,,Analytics,Dynatrace,0
+dtValidationCookie,,Analytics,Dynatrace,0
+dtDisabled,,Analytics,Dynatrace,0
+rxVisitor,,Analytics,Dynatrace,1
+rxvt,,Analytics,Dynatrace,0
+b925d32c,,Functional,Dynatrace,0
+ssoCSRFCookie,,Functional,Dynatrace,0
+p23mn32t,,Functional,Dynatrace,0
+l34kn6no,,Functional,Dynatrace,0
+iu2g34bw,,Functional,Dynatrace,0
+a69k21bb,,Functional,Dynatrace,0
+cgq80xhu,,Functional,Dynatrace,0
+72ddbc27,,Functional,Dynatrace,0
+kj76fg4h,,Functional,Dynatrace,0
+tc_cj_v2,.commander1.com,Marketing,Command Act,0
+tc_cj_v2_cmp.,.commander1.com,Marketing,Command Act,0
+tc_cj_v2_med,.commander1.com,Marketing,Command Act,0
+tc_test_cookie,,Functional,Command Act,0
+TCIPD,,Functional,Command Act,0
+TC_PRIVACY,,Functional,Command Act,0
+TC_PRIVACY_CENTER,,Functional,Command Act,0
+TC_OUTPUT,,Functional,Command Act,0
+TC_OUTPUT_categories,,Functional,Command Act,0
+CAID,,Marketing,Command Act,0
+TCID,.commander1.com​,Marketing,Command Act,0
+WID,.commander1.com,Marketing,Command Act,0
+tc_sample_,,Functional,Command Act,0
+TMS,.commander1.com​,Marketing,Command Act,0
+TC_CHECK_COOKIES_SUPPORT,,Functional,Command Act,0
+TCSESSION,.commander1.com,Marketing,Command Act,0
+TCREDIRECT,.commander1.com,Marketing,Command Act,0
+TCLANDINGURL,.commander1.com,Marketing,Command Act,0
+TCAUDIENCE,,Analytics,Command Act,0
+_TCCookieSync,,Analytics,Command Act,0
+DLBCTLYOXA,,Functional,Command Act,0
+FDLBFIRSTAPI,,Functional,Command Act,0
+FDLBFIRSTDATA,,Functional,Command Act,0
+FDLBFIRSTCAMPAIGN,,Functional,Command Act,0
+FDLBFIRSTCAMPAIGNEF,,Functional,Command Act,0
+FDLBCAMPAIGNCDOM,,Functional,Command Act,0
+FDLBFIRSTTMS,,Functional,Command Act,0
+FDLBFIRSTCMP,,Functional,Command Act,0
+FDLBFIRST,,Functional,Command Act,0
+FDLBCTLY,,Functional,Command Act,0
+FDLBFIRSTEVENTS,,Functional,Command Act,0
+tc_caids,,Functional,Command Act,0
+tc_cj_ss,,Functional,Command Act,0
+tc_ss,,Functional,Command Act,1
+TCREDIRECT_DEDUP,,Marketing,Command Act,0
+pxid,,Functional,Permutive,0
+permutive-id,,Functional,Permutive,0
+cs,.gumgum.com,Marketing,GumGum,0
+vst,.gumgum.com,Marketing,GumGum,0
+_u,.bing.com (3rd party) or .microsoft.com (3rd party),Marketing,Bing / Microsoft,0
+tf_respondent_cc,.typeform.com,Functional,Typeform,0
+attribution_user_id,.typeform.com,Marketing,Typeform,0
+_hp2_id,,Analytics,Heap Analytics,0
+_hp2_ses_props,,Analytics,Heap Analytics,0
+pi_opt_in,,Analytics,Salesforce,0
+Hm_lpvt_,,Analytics,Baidu,0
+Hm_lvt_,,Analytics,Baidu,0
+HMACCOUNT,,Analytics,Baidu,0
+_gtmeec,,Marketing,Stape,0
+logglytrackings­ession,,Functional,Loggly,0
+privacypillar-google-consent,,Functional,PrivacyPillar,0
+privacypillar-cookie-consent,,Functional,PrivacyPillar,0
+euconsent-v2,,Functional,PrivacyPillar,0
+usprivacy,,Functional,PrivacyPillar,0
+__exponea_etc__,,Marketing,Exponea,0
+__exponea_time2__,,Marketing,Exponea,0
+_rp_uid,,Functional,Adyen,0
+aw_popup_viewed_page,,Functional,AWS Cookies Popup,0
+__Secure-next-auth.callback-url,,Functional,NextAuth.js,0
+__Host-next-auth.csrf-token,,Functional,NextAuth.js,0
+cookies-analytics,,Functional,Enzuzo,0
+cookies-functional,,Functional,Enzuzo,0
+cookies-marketing,,Functional,Enzuzo,0
+cookies-preferences,,Functional,Enzuzo,0
+__cpmQQ_trackers,,Necessary,QookieQloud,0
+__cpmQQ_trackers_timestamp,,Necessary,QookieQloud,0
+__cmpQQ_usedCoookies,,Necessary,QookieQloud,0
+__cmpQQ_consentID,,Necessary,QookieQloud,0
+__cmpQQ_CookieConsent,,Necessary,QookieQloud,0
+lantern,,Marketing,Awin,0
+AwinChannelCookie,,Marketing,Awin,0
+wp_lang,,Functional,WordPress,0
+_rails_session,,Necessary,Ruby on Rails,0
+remember_user_token,,Functional,Devise (Ruby on Rails),0
+next-auth.,,Necessary,NextAuth.js,1
+__next_,,Functional,Next.js,1
+sb-,,Necessary,Supabase,1
+clerk_,,Necessary,Clerk,1
+crisp-client/,,Functional,Crisp,1
+drift_,,Functional,Drift,1
+tawk_,,Functional,Tawk.to,1
+lc_,,Functional,LiveChat,1
+plausible_,,Analytics,Plausible Analytics,1
+_fathom,,Analytics,Fathom Analytics,1
+umami.,,Analytics,Umami,1
+_vercel_,,Functional,Vercel,1

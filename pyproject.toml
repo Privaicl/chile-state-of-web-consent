@@ -1,0 +1,15 @@
+[project]
+name = "chile-state-of-web-consent"
+version = "0.1.0"
+description = "Estudio empírico del consentimiento web en Chile — datos, scripts de análisis y reporte."
+requires-python = ">=3.13"
+dependencies = [
+  "tldextract>=5.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.4"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
