@@ -41,9 +41,7 @@ trabajo original se documentan en el reporte.
 │   ├── build_audit_report.py            # Genera audit_report.html para validación humana
 │   ├── compute_agent_f1.py              # Precision/recall/F1 de los agentes contra labels
 │   └── label_server.py                  # Servidor HTTP local para etiquetado manual
-└── docs/
-    └── talks/2026-88-gobierno/
-        └── cfp_abstract.es.md           # Resumen para 8.8 Gobierno 2026
+└── (raíz: LICENSE, CITATION.cff, pyproject.toml, README.md)
 ```
 
 ---
