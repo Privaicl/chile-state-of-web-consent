@@ -421,6 +421,14 @@ def compute_segment_comparison(findings: dict) -> dict:
     return {"rows": rows}
 
 
+def compute_engines_used(sites: list[dict]) -> dict:
+    """Count sites by scrape_engine (provenance metadata)."""
+    engines: Counter = Counter()
+    for s in sites:
+        engines[s.get("scrape_engine") or "unknown"] += 1
+    return dict(engines)
+
+
 def compute_findings(data: dict, db_path: Path) -> dict:
     sites = data["sites"]
     findings: dict[str, Any] = {
@@ -428,6 +436,7 @@ def compute_findings(data: dict, db_path: Path) -> dict:
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "db_path": str(db_path),
         "git_sha": _git_sha(Path(__file__).resolve().parents[1]),
+        "engines_used": compute_engines_used(sites),
         "coverage": compute_coverage(sites),
         "banner_detection": compute_banner_detection(sites),
         "cmps": compute_cmps(sites),
@@ -474,6 +483,13 @@ def render_summary_md(f: dict) -> str:
     seg_rows = [[k, cov["by_segment"]["gov"].get(k, 0), cov["by_segment"]["other"].get(k, 0)]
                 for k in all_status_keys]
     out.append(_md_table(seg_headers, seg_rows))
+
+    bb_count = f.get("engines_used", {}).get("browserbase", 0)
+    if bb_count > 0:
+        out.append(
+            f"\n> *{bb_count} sitios recuperados vía Browserbase tras un bloqueo "
+            f"inicial del scraper local; ver `engines_used` en findings.json.*\n"
+        )
 
     # 2. Banner detection
     out.append("\n## 2. Detección de banner\n")

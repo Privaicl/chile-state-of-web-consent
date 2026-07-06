@@ -6,13 +6,11 @@ appears in baseline, and writes the surviving entries renumbered starting
 at rank 101 to avoid collisions with baseline rows in `study.db`.
 
 Usage:
-    python scripts/dedup_traffic.py
-    python scripts/dedup_traffic.py --baseline companies.json \
+    uv run python scripts/dedup_traffic.py
+    uv run python scripts/dedup_traffic.py --baseline companies.json \
         --traffic data/companies_traffic.json \
         --out data/companies_traffic_new.json \
         --start-rank 101
-
-Dependencies: tldextract  (pip install tldextract)
 """
 from __future__ import annotations
 
@@ -20,25 +18,12 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from urllib.parse import urlparse
 
-import tldextract
+# Resolve repo paths so `scraper.firstparty` is importable when invoked from anywhere.
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "src"))
 
-# Static suffix list (no network fetch at runtime).
-_extract = tldextract.TLDExtract(suffix_list_urls=[])
-
-
-def registered_domain(url_or_host: str) -> str:
-    """Return the registrable (eTLD+1) portion of a URL or hostname."""
-    if not url_or_host:
-        return ""
-    host = url_or_host
-    if "://" in url_or_host:
-        host = urlparse(url_or_host).hostname or ""
-    parts = _extract(host)
-    if not parts.domain or not parts.suffix:
-        return host.lower()
-    return f"{parts.domain}.{parts.suffix}".lower()
+from scraper.firstparty import registered_domain  # noqa: E402
 
 
 def dedup(baseline: list[dict], traffic: list[dict], start_rank: int) -> list[dict]:

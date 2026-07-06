@@ -3,8 +3,9 @@
 Datos, scripts de análisis y reporte derivados de un estudio empírico de las
 prácticas de consentimiento de cookies en sitios web chilenos. El estudio se
 realizó en abril de 2026 sobre una muestra combinada de 100 sitios de un
-listado curado y 454 sitios provenientes de un ranking de tráfico nacional,
-deduplicados por dominio registrable.
+listado curado —el [Ranking Merco Empresas Chile 2025](https://www.merco.info/cl/ranking-merco-empresas),
+las 100 compañías con mejor reputación corporativa— y 454 sitios provenientes
+de un ranking de tráfico nacional, deduplicados por dominio registrable.
 
 La metodología porta sin modificaciones la regla de cumplimiento mínimo
 propuesta por Nouwens et al. (CHI '25), lo que permite comparar la cifra
@@ -95,5 +96,5 @@ MIT — ver [`LICENSE`](LICENSE).
 
 Si utiliza este dataset o los scripts en trabajo derivado, se agradece citar:
 
-> *Estado del Consentimiento Web en Chile 2026.* Privai SpA.
+> *Estado del Consentimiento Web en Chile 2026.* Nickel Technologies SpA (Privai).
 > https://github.com/Privaicl/chile-state-of-web-consent
